@@ -3,6 +3,8 @@ title: 'Postcard Pickup and Chat: Aug 3, 10:30AM - 11:30AM'
 date: 2022-08-03 10:30:00 Z
 categories:
 - event
+tags:
+- postcard
 main-image: "/uploads/Welcome-PA-New-Resident-PA-Guide.jpg"
 ---
 
