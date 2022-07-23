@@ -57,9 +57,8 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 'We are taking collective action at the local, state, and federal levels
-  to strengthen our democracy; while building community and having fun and laughs
-  together. '
+subtitle: 'We are working to strengthen our democracy; while building community and
+  having some fun and laughs together. '
 email: IndivisibleLAB@gmail.com
 baseurl: 
 url: 
