@@ -57,8 +57,9 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
+subtitle: 'We are taking collective action at the local, state, and federal levels
+  to strengthen our democracy; while building community and having fun and laughs
+  together. '
 email: 
 baseurl: 
 url: 
