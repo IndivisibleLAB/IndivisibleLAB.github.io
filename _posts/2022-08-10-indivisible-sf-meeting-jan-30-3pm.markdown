@@ -4,7 +4,7 @@ date: 2022-08-10 16:30:00 Z
 categories:
 - event
 tags:
-- meeting
+- social
 is featured: false
 main-image: "/uploads/image.jpeg"
 event-start-date: 2017-02-05 19:30:00 Z
