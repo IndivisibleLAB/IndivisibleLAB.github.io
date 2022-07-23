@@ -1,6 +1,6 @@
 ---
 title: 'Happy Hour at Craft Food Hall - Revolution: Aug 10, 4:30pm - 5:30PM'
-date: 2017-02-03 07:10:00 Z
+date: 2022-08-10 16:30:00 Z
 categories:
 - event
 tags:
