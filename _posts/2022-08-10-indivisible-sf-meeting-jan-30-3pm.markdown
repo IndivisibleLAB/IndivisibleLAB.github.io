@@ -8,8 +8,9 @@ tags:
 is featured: false
 main-image: "/uploads/image.jpeg"
 event-start-date: 2017-02-05 19:30:00 Z
-Location: Women's Building - 512 Filmore St, San Francisco, CA
-RSVP-link: http://facebook.com/event
+event-end-date: 2022-07-23 17:30:00 Z
+Location: Craft Food Hall Revolution, 3 Maguire Road Lexington, MA 02421
+RSVP-link: https://www.mobilize.us/indivisiblelab/event/480930/
 layout: post
 ---
 
