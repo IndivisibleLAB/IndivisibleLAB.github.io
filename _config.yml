@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 'We are working to strengthen our democracy; while building community and
+subtitle: 'We are working to strengthen our democracy while building community and
   having some fun and laughs together. '
 email: IndivisibleLAB@gmail.com
 baseurl: 
