@@ -1,5 +1,5 @@
 ---
-title: IndivisibleLAB at IMC IndivisGather
+title: IndivisibleLAB at IMC IndivisiGather
 date: 2022-06-26 22:00:00 Z
 categories:
 - event
