@@ -3,6 +3,7 @@ title: Lexington Fair Share Canvas
 date: 2022-07-24 14:47:00 Z
 categories:
 - action
+- event
 main-image: "/uploads/mobilize_lexington_canvass7-30_20220721170959796779.png.webp"
 call-script-text: "\n"
 event-start-date: 2022-07-30 09:30:00 Z
