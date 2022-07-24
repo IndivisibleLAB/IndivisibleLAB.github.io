@@ -3,7 +3,7 @@ title: IndivisibleLAB at IMC IndivisGather
 date: 2022-06-26 22:00:00 Z
 categories:
 - event
-main-image: "/uploads/IMG_4877.heic"
+main-image: "/uploads/Screen%20Shot%202022-07-24%20at%2011.47.56%20AM.png"
 layout: media-item
 ---
 
