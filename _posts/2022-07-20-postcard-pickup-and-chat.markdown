@@ -1,6 +1,6 @@
 ---
 title: 'Postcard Pickup and Chat: Aug 3, 10:30AM - 11:30AM'
-date: 2022-08-03 10:30:00 Z
+date: 2022-07-20 10:30:00 Z
 categories:
 - event
 tags:
