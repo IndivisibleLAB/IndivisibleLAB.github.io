@@ -2,7 +2,7 @@
 title: Become A Member
 date: 2017-02-17 03:58:00 Z
 position: 5
-mailchimp-form-embed: <iframe height="815" title="Embedded Wufoo Form" allowtransparency="true"
+mailchimp-form-embed: <iframe height="860" title="Embedded Wufoo Form" allowtransparency="true"
   frameborder="0" scrolling="no" style="width:100%;border:none" sandbox="allow-top-navigation
   allow-scripts allow-popups allow-forms allow-same-origin" src="https://indivisiblelab.wufoo.com/embed/z1k9gglo1fqon8n/">
   <a href="https://indivisiblelab.wufoo.com/forms/z1k9gglo1fqon8n/">Fill out my Wufoo
