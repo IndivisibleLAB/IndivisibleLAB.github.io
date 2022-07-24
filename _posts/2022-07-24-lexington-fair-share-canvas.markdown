@@ -3,7 +3,6 @@ title: Lexington Fair Share Canvas
 date: 2022-07-24 14:47:00 Z
 categories:
 - action
-- event
 main-image: "/uploads/mobilize_lexington_canvass7-30_20220721170959796779.png.webp"
 call-script-text: |
   Can’t canvass this time but still want to help? Send this email message to your friends, family, and connections in Massachusetts.
