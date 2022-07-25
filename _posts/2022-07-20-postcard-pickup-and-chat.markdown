@@ -8,7 +8,7 @@ tags:
 main-image: "/uploads/Welcome-PA-New-Resident-PA-Guide.jpg"
 event-start-date: 2022-08-03 10:30:00 Z
 event-end-date: 2022-08-03 11:30:00 Z
-Location: Lexington Visitors' Center, 1875 Mass Ave, Lexington, MA
+Location: Lexington Visitors' Center, 1875 Mass Ave, Lexington, MA 02420
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/483265/
 ---
 
