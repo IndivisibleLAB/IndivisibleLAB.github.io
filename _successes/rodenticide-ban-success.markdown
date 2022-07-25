@@ -1,5 +1,5 @@
 ---
-title: Rodenticide Ban Success
+title: Rodenticide Action Success
 date: 2022-07-24 20:24:00 Z
 main-image: "/uploads/Image%20from%20iOS.jpg"
 ---
