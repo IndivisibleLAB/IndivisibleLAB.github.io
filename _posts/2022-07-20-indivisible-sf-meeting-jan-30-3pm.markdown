@@ -14,4 +14,4 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/480930/
 layout: post
 ---
 
-Come enjoy the summer and chat (and laugh) with friends about current events! There is food and drink to purchase. Please register here so that we know that you are coming.  https://www.mobilize.us/indivisiblelab/event/480930/
+Come enjoy the summer and chat (and laugh) with friends about current events! There is food and drink to purchase. Please RSVP so that we know that you are coming.
