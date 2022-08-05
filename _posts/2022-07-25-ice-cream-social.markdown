@@ -1,6 +1,7 @@
 ---
 title: Ice Cream Social
 date: 2022-07-25 21:38:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/295835745_1945606718970229_3345718827901365489_n.png.jpeg"
