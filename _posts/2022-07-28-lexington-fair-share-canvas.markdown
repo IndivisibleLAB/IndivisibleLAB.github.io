@@ -5,8 +5,8 @@ published: false
 categories:
 - event
 main-image: "/uploads/mobilize_lexington_canvass7-30_20220721170959796779.png.webp"
-event-start-date: 2022-07-30 09:30:00 Z
-event-end-date: 2022-07-30 12:00:00 Z
+event-start-date: 2022-08-13 09:30:00 Z
+event-end-date: 2022-08-13 12:00:00 Z
 Location: Lexington High School, 251 Waltham St Lexington, MA 02421
 RSVP-link: https://www.mobilize.us/fairshareamendment2022/event/480867/
 ---
