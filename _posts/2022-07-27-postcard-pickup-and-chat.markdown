@@ -6,8 +6,8 @@ categories:
 tags:
 - postcard
 main-image: "/uploads/postcard-to-voter-with-banner.jpg.webp"
-event-start-date: 2022-08-03 10:30:00 Z
-event-end-date: 2022-08-03 11:30:00 Z
+event-start-date: 2022-08-17 10:30:00 Z
+event-end-date: 2022-08-17 11:30:00 Z
 Location: Lexington Visitors' Center, 1875 Mass Ave, Lexington, MA 02420
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/488627/
 ---
