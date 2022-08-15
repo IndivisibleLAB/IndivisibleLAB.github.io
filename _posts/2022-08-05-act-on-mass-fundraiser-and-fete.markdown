@@ -1,6 +1,7 @@
 ---
 title: Act On Mass Fundraiser & Fete
 date: 2022-08-05 14:51:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/RSVP%20at%20httpsbit.lyVivianSendOff-2.png"
