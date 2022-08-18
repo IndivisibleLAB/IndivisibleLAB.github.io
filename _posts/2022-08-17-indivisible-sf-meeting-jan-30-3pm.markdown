@@ -10,6 +10,7 @@ main-image: "/uploads/image.jpeg"
 event-start-date: 2022-09-07 16:30:00 Z
 event-end-date: 2022-09-07 17:30:00 Z
 Location: Craft Food Hall Revolution, 3 Maguire Road Lexington, MA 02421
+RSVP-link: https://www.mobilize.us/indivisiblelab/event/493990/
 layout: post
 ---
 
