@@ -3,6 +3,8 @@ title: 'Postcard Pickup and Chat: Aug 31, 10:30AM - 11:30AM'
 date: 2022-08-20 19:38:00 Z
 categories:
 - event
+tags:
+- postcard
 main-image: "/uploads/postcarding.jpeg"
 event-start-date: 2022-08-31 10:30:00 Z
 event-end-date: 2022-08-31 11:30:00 Z
