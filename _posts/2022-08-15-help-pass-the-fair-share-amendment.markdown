@@ -15,4 +15,4 @@ Here are some other ways you can help get the Fair Share amendment passed:
 
 * Join a phone bank to call voters and spread the word about the Fair Share Amendment. There are statewide phone banks every Monday, Wednesday, & Thursday from 6-8pm - sign up [HERE](https://www.mobilize.us/indivisiblelab/event/476323/).
 
-* Send [this email message](Send this email message to your friends, family, and connections in Massachusetts.) to your friends, family, and connections in Massachusetts.
+* Send [this email message](https://docs.google.com/document/d/1uRmzkgMjTCZd_5FoivBH_FHGGwf9JTQ4/edit?usp=sharing&ouid=106112089057037951056&rtpof=true&sd=true) to your friends, family, and connections in Massachusetts.
