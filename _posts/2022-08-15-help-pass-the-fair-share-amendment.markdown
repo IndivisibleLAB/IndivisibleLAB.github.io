@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/Lexington%20Fair%20Share%20Canvass%206-18-22-3a3561.png"
 ---
 
-The [Fair Share Amendment](https://www.fairsharema.com/why-fair-share) - Question 1 on our November ballots - will create a 4 percent tax on a person’s annual income above $1 million and dedicate the funds raised to transportation and public education.
+Join us to help pass the [Fair Share Amendment](https://www.fairsharema.com/why-fair-share) - Question 1 on our November ballots - which will create a 4 percent tax on a person’s annual income above $1 million and dedicate the funds raised to transportation and public education.
 
 IndivisibleLAB members have been canvassing, phone banking, and tabling at local Farmers Markets to talk to voters about the Fair Share amendment. You can find an updated list of events in our area [HERE](https://www.mobilize.us/indivisiblelab/?org_ids=32944) or in other locations across the state [HERE](https://www.mobilize.us/fairshareamendment2022/). If you want a lawn sign or would to join us to talk to voters at the Lexington Farmers Market, email us at indivisiblelab@gmail.com
 
