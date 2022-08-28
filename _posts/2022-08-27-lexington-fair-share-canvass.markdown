@@ -1,6 +1,6 @@
 ---
 title: Lexington Fair Share Canvass
-date: 2022-08-28 19:55:00 Z
+date: 2022-08-27 19:55:00 Z
 categories:
 - event
 tags:
