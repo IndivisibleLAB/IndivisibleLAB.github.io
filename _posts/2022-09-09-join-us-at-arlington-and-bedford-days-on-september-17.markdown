@@ -5,6 +5,8 @@ categories:
 - event
 tags:
 - social
+event-start-date: 2022-09-17 09:30:00 Z
+event-end-date: 2022-09-17 15:00:00 Z
 ---
 
 On Saturday, September 17, members of IndivisibleLAB will be joining fellow activists at Arlington Town Day and Bedford Day. 
