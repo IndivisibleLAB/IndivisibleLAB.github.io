@@ -9,6 +9,7 @@ main-image: "/uploads/postcarding.jpeg"
 event-start-date: 2022-09-28 10:30:00 Z
 event-end-date: 2022-09-28 11:30:00 Z
 Location: Lexington Visitors' Center, 1875 Mass Ave, Lexington, MA 02420
+RSVP-link: https://www.mobilize.us/indivisiblelab/event/512575/
 ---
 
 Meet us outside at the visitor center in Lexington. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. You’ll find us on the porch in the back or at the picnic tables in front (depending on weather). We spread out tables but feel free to bring a mask; we can also create a mask-only table if there is demand.
