@@ -14,6 +14,6 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/512519/
 
 Join fellow IndivisibleLAB members to canvass voters and spread the word to vote YES on Fair Share this November! Need a canvassing refresher? No problem! All the training and materials you need to have great conversations at the doors will be provided.
 
-Can’t canvass this time but still want to help? There are canvasses every Saturday between now and election day - sign up using the same link! 
+Can’t canvass this time but still want to help? There are canvasses every Saturday between now and election day - sign up using the same RSVP link on this page! 
 
 Find other ways you can support the Fair Share Amendment including talking to voters every Tuesday at the Lexington Farmers Market [HERE](https://indivisiblelab.org/action/2022/08/15/help-pass-the-fair-share-amendment.html).
