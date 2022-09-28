@@ -17,5 +17,3 @@ We'll post more info about the postcards we'll be writing and a link to reserve 
 
 If you want a drink or snack, check out Via Lago, which is just across Meriam Street. There is parking on the street or in the lot on Meriam Street. There is a water refill station inside the Visitor Center so bring your own water bottle!
 
-Can't join us this time? We'll be having similar events every other Wednesday at the same time and location through October.
-
