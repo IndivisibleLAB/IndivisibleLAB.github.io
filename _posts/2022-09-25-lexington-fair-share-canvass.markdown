@@ -6,8 +6,8 @@ categories:
 tags:
 - canvass
 main-image: "/uploads/Lexington%20Fair%20Share%20Canvass%206-18-22-c5db1b.png"
-event-start-date: 2022-10-08 09:30:00 Z
-event-end-date: 2022-10-08 12:00:00 Z
+event-start-date: 2022-10-15 09:30:00 Z
+event-end-date: 2022-10-15 12:00:00 Z
 Location: Lexington High School, 251 Waltham St., Lexington, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/512519/
 ---
