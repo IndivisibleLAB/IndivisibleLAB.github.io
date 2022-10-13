@@ -1,6 +1,7 @@
 ---
 title: 'Postcard Pickup and Chat: Oct 12, 10:30AM - 11:30AM'
 date: 2022-09-29 19:38:00 Z
+published: false
 categories:
 - event
 - action
