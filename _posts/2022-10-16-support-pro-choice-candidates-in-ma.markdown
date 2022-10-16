@@ -14,5 +14,6 @@ Find opportunities to help these candidates on their websites: [Teresa English](
 
 or join phone or text banks hosted by [Reproductive Equity Now](https://reproequitynow.org/) to support these and other pro-choice candidates in MA who are in tough races:
 * Sign up for weekly phone banks on Wednesdays at 5pm here: [bit.ly/2022RENphonebank](https://us02web.zoom.us/meeting/register/tZAuduioqDwjH9yRyIdLKR8usHjtf_CGHxkr)
-Sign up for weekly text banks on Thursdays at 5pm here: [bit.ly/2022rentextbank](https://us02web.zoom.us/meeting/register/tZAkdeqopzkvE9VNeW8BUpuqv8SQOaNTpZ8A)
+
+* Sign up for weekly text banks on Thursdays at 5pm here: [bit.ly/2022rentextbank](https://us02web.zoom.us/meeting/register/tZAkdeqopzkvE9VNeW8BUpuqv8SQOaNTpZ8A)
 
