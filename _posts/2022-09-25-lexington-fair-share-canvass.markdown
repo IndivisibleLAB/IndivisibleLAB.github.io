@@ -1,6 +1,7 @@
 ---
 title: Lexington Fair Share Canvass
 date: 2022-09-25 19:55:00 Z
+published: false
 categories:
 - event
 tags:
