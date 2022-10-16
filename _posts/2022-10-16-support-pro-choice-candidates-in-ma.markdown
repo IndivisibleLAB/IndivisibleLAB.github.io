@@ -3,6 +3,7 @@ title: Support Pro-Choice Candidates in MA
 date: 2022-10-16 16:22:00 Z
 categories:
 - action
+main-image: "/uploads/IMG_3847-42ff4c.JPG"
 ---
 
 Join us in helping to elect candidates who will protect abortion rights here in MA.
