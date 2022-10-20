@@ -9,6 +9,7 @@ main-image: "/uploads/Lexington%20Fair%20Share%20Canvass%206-18-22-3a3561.png"
 Join us to help pass the [Fair Share Amendment](https://www.fairsharema.com/why-fair-share) - Question 1 on our November ballots - which will raise dedicated funds for education and transportation from a 4 percent tax on a person’s annual income above $1 million.
 
 IndivisibleLAB members have been canvassing, phone banking, and tabling at local Farmers Markets to talk to voters about the Fair Share amendment. Sign up to join us on Tuesday afternoons at the Lexington Farmers Market [HERE](https://www.mobilize.us/indivisiblelab/event/502528/). You can find an updated list of more events in our area [HERE](https://www.mobilize.us/indivisiblelab/?org_ids=32944) or in other locations across the state [HERE](https://www.mobilize.us/fairshareamendment2022/).
+
 Want a lawn sign? Request one [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeHRt3kOURgryOLKB2CRHRP6WlfoesH9h5YV2tVXlvMqa32RA/viewform).  Willing to hold signs in Lexington Center? You can sign up for 1-hour shifts on the weekends of Oct. 29 & 30 and/or Nov. 5 & 6 [here](https://docs.google.com/forms/d/e/1FAIpQLScm1z65Nobb_lopbI-w3nvUETdLnnx3hI7tfBPbztDVcmgX6g/viewform).  
 
 Here are some other ways you can help get the Fair Share amendment passed:
