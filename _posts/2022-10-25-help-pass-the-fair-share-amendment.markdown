@@ -3,6 +3,7 @@ title: Help Pass the Fair Share Amendment
 date: 2022-10-25 19:21:00 Z
 categories:
 - action
+- event
 main-image: "/uploads/Lexington%20Fair%20Share%20Canvass%206-18-22-3a3561.png"
 ---
 
