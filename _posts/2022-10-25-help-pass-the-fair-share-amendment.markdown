@@ -5,6 +5,7 @@ categories:
 - action
 - event
 main-image: "/uploads/Lexington%20Fair%20Share%20Canvass%206-18-22-3a3561.png"
+layout: actions
 ---
 
 Join us to help pass the [Fair Share Amendment](https://www.fairsharema.com/why-fair-share) - Question 1 on our November ballots - which will raise dedicated funds for education and transportation from a 4 percent tax on a person’s annual income above $1 million.
