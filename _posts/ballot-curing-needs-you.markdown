@@ -1,5 +1,6 @@
 ---
 title: Ballot Curing needs You!
+published: false
 categories:
 - action
 main-image: "/uploads/IMG_1250-50faf5.jpg"
