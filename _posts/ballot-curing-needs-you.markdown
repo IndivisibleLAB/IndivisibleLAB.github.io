@@ -4,6 +4,7 @@ published: false
 categories:
 - action
 main-image: "/uploads/IMG_1250-50faf5.jpg"
+event-start-date: 2022-11-10 00:00:00 Z
 ---
 
 Ballot curing needs a few hours of YOU. Cure teams are operating in GA, AZ, NV, and other states in the coming days. Training is provided, and curing is fun! See below to learn more and sign up
