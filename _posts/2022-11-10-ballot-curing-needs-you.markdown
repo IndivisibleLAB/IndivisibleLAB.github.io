@@ -1,6 +1,7 @@
 ---
 title: Ballot Curing Help Needed
 date: 2022-11-10 15:39:00 Z
+published: false
 categories:
 - action
 main-image: "/uploads/IMG_1250.jpg"
@@ -16,9 +17,9 @@ Why is ballot curing awesome?
 These are low-stress, fulfilling calls. You are calling to help someone who already voted to get their vote counted. Unlike a “persuasion” phone bank, the person you reach is always grateful you called because it’s likely they don’t already know their ballot wasn’t counted Training is short, there are scripts and you have access to staff support if you get stuck. You do not have to be an expert! Just a caring person.
 
 Where to learn more and sign up?
-Click the links below to find upcoming times:
+Use the links below to find upcoming times:
 
-[Arizona Ballot Curing:](https://www.mobilize.us/missionforaz/event/542942/)
+Arizona Ballot Curing: https://www.mobilize.us/missionforaz/event/542942/
 
 
 Nevada Ballot Curing:
