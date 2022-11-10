@@ -25,4 +25,4 @@ https://www.mobilize.us/demvictorynv/event/491954/
 Georgia Ballot Curing:
 https://www.mobilize.us/gavotes/event/537437/
 Want more options? 
-https://www.fieldteam6.org/volunteer-ops?ceid=11917943...
+https://www.fieldteam6.org/volunteer-ops?ceid=11917943&emci=94dfec53-5960-ed11-ade6-14cb6534a651&emdi=77ba8e32-5a60-ed11-ade6-14cb6534a651
