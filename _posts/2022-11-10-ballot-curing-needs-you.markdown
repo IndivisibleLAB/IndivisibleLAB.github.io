@@ -18,8 +18,8 @@ These are low-stress, fulfilling calls. You are calling to help someone who alre
 Where to learn more and sign up?
 Click the links below to find upcoming times:
 
-Arizona Ballot Curing:
-https://www.mobilize.us/missionforaz/event/542942/
+[Arizona Ballot Curing:](https://www.mobilize.us/missionforaz/event/542942/)
+
 
 Nevada Ballot Curing:
 https://www.mobilize.us/demvictorynv/event/542812/ or
