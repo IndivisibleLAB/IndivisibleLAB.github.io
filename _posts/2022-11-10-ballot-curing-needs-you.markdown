@@ -20,7 +20,7 @@ Click the links below to find upcoming times:
 
 [Arizona Ballot Curing](https://www.mobilize.us/missionforaz/event/542942/)
 
-Nevada Ballot Curing [here](https://www.mobilize.us/demvictorynv/event/542812/) or [here](https://www.mobilize.us/demvictorynv/event/491954/).  or .
+Nevada Ballot Curing [here](https://www.mobilize.us/demvictorynv/event/542812/) or [here](https://www.mobilize.us/demvictorynv/event/491954/).
 
 [Georgia Ballot Curing](https://www.mobilize.us/gavotes/event/537437/)
 
