@@ -18,13 +18,10 @@ These are low-stress, fulfilling calls. You are calling to help someone who alre
 Where to learn more and sign up?
 Click the links below to find upcoming times:
 
-Arizona Ballot Curing:
-https://www.mobilize.us/missionforaz/event/542942/
+Arizona Ballot Curing go [here](https://www.mobilize.us/missionforaz/event/542942/).
 
-Nevada Ballot Curing:
-https://www.mobilize.us/demvictorynv/event/542812/ or
-https://www.mobilize.us/demvictorynv/event/491954/
-Georgia Ballot Curing:
-https://www.mobilize.us/gavotes/event/537437/
-Want more options? 
-https://www.fieldteam6.org/volunteer-ops?ceid=11917943&emci=94dfec53-5960-ed11-ade6-14cb6534a651&emdi=77ba8e32-5a60-ed11-ade6-14cb6534a651
+Nevada Ballot Curing go [here](https://www.mobilize.us/demvictorynv/event/542812/) or [here](https://www.mobilize.us/demvictorynv/event/491954/).
+
+Georgia Ballot Curing go [here](https://www.mobilize.us/gavotes/event/537437/).
+
+Want more options? go [here](https://www.fieldteam6.org/volunteer-ops?ceid=11917943&emci=94dfec53-5960-ed11-ade6-14cb6534a651&emdi=77ba8e32-5a60-ed11-ade6-14cb6534a651).
