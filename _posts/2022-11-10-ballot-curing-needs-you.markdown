@@ -23,6 +23,7 @@ https://www.mobilize.us/missionforaz/event/542942/
 Nevada Ballot Curing:
 https://www.mobilize.us/demvictorynv/event/542812/ or
 https://www.mobilize.us/demvictorynv/event/491954/
+
 Georgia Ballot Curing:
 https://www.mobilize.us/gavotes/event/537437/
 Want more options? 
