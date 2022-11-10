@@ -14,4 +14,4 @@ The mission of **IndivisibleLAB** (Lexington, Arlington, Bedford, and Beyond) is
 
 **All are welcome.**
 
-**Donations to IndivisibleLAB can be made here:**  https://secure.actblue.com/donate/indivisiblelab1016463965
+**Donations to IndivisibleLAB can be made here:**  [Donate to IndivisibleLAB](https://secure.actblue.com/donate/indivisiblelab1016463965)
