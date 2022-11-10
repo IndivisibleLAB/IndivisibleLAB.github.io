@@ -10,7 +10,7 @@ What is ballot curing?
 Humans make mistakes on mail-in ballots. Mail ballots can be cast aside for small infractions: undated, unsigned, signature doesn’t match the one on file, incomplete address, etc. The answer: Ballot cure teams help voters fix mistakes and get their votes counted
 
 Why is ballot curing awesome?
-Low-stress, fulfilling calls. You are calling to help someone who already voted to get their vote counted. Unlike a “persuasion” phone bank, the person you reach is always grateful you called because it’s likely they don’t already know their ballot wasn’t counted Training is short, there are scripts and you have access to staff support if you get stuck. You do not have to be an expert! Just a caring person.
+These are low-stress, fulfilling calls. You are calling to help someone who already voted to get their vote counted. Unlike a “persuasion” phone bank, the person you reach is always grateful you called because it’s likely they don’t already know their ballot wasn’t counted Training is short, there are scripts and you have access to staff support if you get stuck. You do not have to be an expert! Just a caring person.
 
 Where to learn more and sign up?
 Click the links below to find upcoming times:
