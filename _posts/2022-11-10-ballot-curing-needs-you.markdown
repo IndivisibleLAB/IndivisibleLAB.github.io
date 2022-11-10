@@ -2,6 +2,8 @@
 title: Ballot Curing needs You!
 date: 2022-11-10 15:22:00 Z
 published: false
+categories:
+- action
 main-image: "/uploads/IMG_1250-50faf5.jpg"
 ---
 
