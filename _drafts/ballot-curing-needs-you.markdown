@@ -1,6 +1,6 @@
 ---
-title: Ballot Curing needs You!
-date: 2022-11-10 15:20:31.758000000 Z
+title: Ballot Curing Help Needed
+date: 2022-11-10 15:39:13.593000000 Z
 main-image: "/uploads/IMG_1250.jpg"
 ---
 
