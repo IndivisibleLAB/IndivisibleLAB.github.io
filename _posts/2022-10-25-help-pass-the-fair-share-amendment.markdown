@@ -1,7 +1,6 @@
 ---
 title: Help Pass the Fair Share Amendment
 date: 2022-10-25 19:21:00 Z
-published: false
 categories:
 - action
 - event
