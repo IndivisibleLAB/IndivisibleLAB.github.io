@@ -7,7 +7,7 @@ main-image: "/uploads/IMG_1250.jpg"
 event-start-date: 2022-11-10 00:00:00 Z
 ---
 
-Ballot curing needs a few hours of YOU. Cure teams are operating in GA, AZ, NV, and other states in the coming days. Training is provided and curing is fun! See below to learn more and sign up.
+Ballot curing needs a few hours of YOU. Cure teams are operating in GA, AZ, NV, and California. Training is provided and curing is fun! See below to learn more and sign up.
 
 What is ballot curing?
 Humans make mistakes on mail-in ballots. Mail ballots can be cast aside for small infractions: undated, unsigned, signature doesn’t match the one on file, incomplete address, etc. The answer: Ballot cure teams help voters fix mistakes and get their votes counted
