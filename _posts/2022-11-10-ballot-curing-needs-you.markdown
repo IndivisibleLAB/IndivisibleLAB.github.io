@@ -22,4 +22,4 @@ Click the links below to find upcoming times:
 
 Nevada Ballot Curing [here](https://www.mobilize.us/demvictorynv/event/542812/).
 
-Want more options? Here are options for Arizona, California, Georgia, and Nevada: [here](https://www.fieldteam6.org/volunteer-ops?ceid=11917943&emci=94dfec53-5960-ed11-ade6-14cb6534a651&emdi=77ba8e32-5a60-ed11-ade6-14cb6534a651)
+Want more options? Here are more options for Arizona, California, Georgia, and Nevada: [here](https://www.fieldteam6.org/volunteer-ops?ceid=11917943&emci=94dfec53-5960-ed11-ade6-14cb6534a651&emdi=77ba8e32-5a60-ed11-ade6-14cb6534a651)
