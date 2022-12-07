@@ -1,12 +1,14 @@
 ---
 title: Support SGARs Bill H.4931 - Protect Wildlife
-date: 2022-07-24 20:12:00 Z
+date: 2022-12-07 09:00:00 Z
 categories:
 - action
 tags:
 - legislation
 is featured: false
 main-image: "/uploads/OwlsByMJ.jpeg"
+event-start-date: 2022-12-07 00:00:00 Z
+event-end-date: 2022-12-31 00:00:00 Z
 ---
 
 Another owl in Arlington has died of rodenticide. This is heartbreaking. We need to make progress on the problem of rodenticide.
