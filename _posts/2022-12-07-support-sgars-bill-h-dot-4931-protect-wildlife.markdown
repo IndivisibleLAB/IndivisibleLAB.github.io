@@ -3,6 +3,7 @@ title: Support SGARs Bill H.4931 - Protect Wildlife
 date: 2022-12-07 09:00:00 Z
 categories:
 - action
+- event
 tags:
 - legislation
 is featured: false
