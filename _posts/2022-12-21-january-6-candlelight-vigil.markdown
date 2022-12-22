@@ -10,4 +10,4 @@ Location: Monument Square, Concord, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/546047/
 ---
 
-Join us at a silent candlelight vigil in Concord’s Monument Square to honor those who lost their lives or were injured during the January 6 insurrection. IndivisibleLAB is proud to co-host this event and Saturday afternoon’s rally in Concord along with Concord Indivisible and Reclaim our Democracy. Get more details and RSVP [here](https://www.mobilize.us/indivisiblelab/event/546047/).
+Join us at a silent candlelight vigil in Concord’s Monument Square to honor those who lost their lives or were injured during the January 6 insurrection. IndivisibleLAB is proud to co-host this event and Saturday afternoon’s rally in Concord with [Concord Indivisible](https://concordindivisible.org/) and [Reclaim our Democracy](http://reclaimourdemocracy.org/). Get more details and RSVP [here](https://www.mobilize.us/indivisiblelab/event/546047/).
