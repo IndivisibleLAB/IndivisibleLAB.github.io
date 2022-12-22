@@ -5,7 +5,7 @@ categories:
 - event
 main-image: "/uploads/First%20Parish%20Concord.jpg"
 event-start-date: 2023-01-07 14:00:00 Z
-event-end-date: 2023-01-07 15:30:00 Z
+event-end-date: 2023-01-07 15:00:00 Z
 Location: Outside First Parish Church, 20 Lexington Road, Concord, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/546047/
 ---
