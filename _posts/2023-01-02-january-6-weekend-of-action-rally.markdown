@@ -1,6 +1,6 @@
 ---
 title: January 6 Weekend of Action Rally
-date: 2022-12-20 22:09:00 Z
+date: 2023-01-02 22:09:00 Z
 categories:
 - event
 main-image: "/uploads/First%20Parish%20Concord.jpg"
