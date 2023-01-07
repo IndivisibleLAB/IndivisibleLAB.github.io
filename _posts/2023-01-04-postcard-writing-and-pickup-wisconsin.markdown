@@ -1,11 +1,12 @@
 ---
 title: Postcard Writing and Pickup  - Wisconsin
-date: 2022-12-19 15:33:00 Z
+date: 2023-01-04 15:33:00 Z
 categories:
 - event
 main-image: "/uploads/Wisconsin.jpg"
 event-start-date: 2023-01-11 10:30:00 Z
 event-end-date: 2023-01-11 11:30:00 Z
+Location: Via Lago, 1845 Massachusetts Ave, Lexington, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/546822/
 ---
 
