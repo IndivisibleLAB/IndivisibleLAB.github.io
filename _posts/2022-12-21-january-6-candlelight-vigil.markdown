@@ -1,6 +1,7 @@
 ---
 title: January 6 Candlelight Vigil
 date: 2022-12-21 22:03:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/Concord%20Vigil.jpg"
