@@ -3,6 +3,7 @@ title: January 6 Weekend of Action Rally
 date: 2023-01-05 22:09:00 Z
 categories:
 - event
+main-image: "/uploads/Speakers%20with%20Banner.JPG"
 event-start-date: 2023-01-07 14:00:00 Z
 event-end-date: 2023-01-07 15:00:00 Z
 Location: Outside First Parish Church, 20 Lexington Road, Concord, MA
