@@ -9,7 +9,7 @@ is featured: false
 main-image: "/uploads/OwlsByMJ.jpeg"
 event-start-date: 2023-02-11 14:30:00 Z
 event-end-date: 2023-02-11 16:00:00 Z
-Location: Lexington Community Center, Room 242
+Location: Lexington Community Center, Room 242, Lexington, MA
 Lexington Community Center, Room 242: 
 ---
 
