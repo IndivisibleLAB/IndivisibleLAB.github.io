@@ -11,13 +11,12 @@ event-start-date: 2022-12-07 00:00:00 Z
 event-end-date: 2022-12-31 00:00:00 Z
 ---
 
-Another owl in Arlington has died of rodenticide. This is heartbreaking. We need to make progress on the problem of rodenticide.
+Nobody wants mice in their house or rats running around their town BUT the current use of rodenticide (rat poison) has many terrible side effects, including the death of many wild animals (raptors, fox, coyotes, squirrels, etc.) and some domestic pets (cats and dogs). The wild animals that are killed are often nature’s best rodent controllers, which can actually make the rat population worse. The really sad part is that there are alternatives to rodenticide.
 
-The MA House of Representatives Passed An Act Relative to Pesticides. This bill has been stuck in the Senate Ways and Means committee. It is still possible to pass this bill in the informal session.  Please call Senate leadership about the Rodenticide Bill (H.4931). The bill seeks to monitor and reduce the use of Second-Generate Anticoagulant Rodenticides (SGARs) in the Commonwealth to protect our wildlife and pets. Here is the contact information for leadership:
-President - karenspilka@masenate.gov 617.722.1500
-Chair of Senate Ways and Means - michael.rodrigues@masenate.gov 617.722.1114
+IndivisibleLAB is pleased to host  “Rodent Control: The Good, the Bad, and the Ugly”. This presentation will cover why rodenticide is dangerous to wildlife and pets, other products and methods that one can use to control unwanted rodents, and legislative action that one can take to help in our community.
 
-For more information see our [Resource Sheet](https://docs.google.com/document/d/11BHCjs9Luw-z9G4UPbc9yumLaSpDTdhZZVQPZzl2FIk/edit?usp=sharing).
+Stay tuned for more information.
 
+Please join us for this interactive presentation on February 11, 2023 at Lexington Community Center, room 242 from 2:30-4:00 pm. Note: masks are required.
 
 Photo courtesy of MJ Keeler
