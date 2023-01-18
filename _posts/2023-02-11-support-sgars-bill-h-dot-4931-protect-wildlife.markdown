@@ -10,7 +10,6 @@ main-image: "/uploads/OwlsByMJ.jpeg"
 event-start-date: 2023-02-11 14:30:00 Z
 event-end-date: 2023-02-11 16:00:00 Z
 Location: Lexington Community Center, Room 242, Lexington, MA
-Lexington Community Center, Room 242: 
 ---
 
 Nobody wants mice in their house or rats running around their town BUT the current use of rodenticide (rat poison) has many terrible side effects, including the death of many wild animals (raptors, fox, coyotes, squirrels, etc.) and some domestic pets (cats and dogs). The wild animals that are killed are often nature’s best rodent controllers, which can actually make the rat population worse. The really sad part is that there are alternatives to rodenticide.
