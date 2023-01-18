@@ -18,10 +18,10 @@ Nobody wants mice in their house or rats running around their town BUT the curre
 IndivisibleLAB is pleased to host “Rodent Control: The Good, the Bad, and the Ugly”. This presentation will cover why rodenticide is dangerous to wildlife and pets, other products and methods that one can use to control unwanted rodents, and legislative action that one can take to help in our community.
 
 Presenters include:
-- Laura Kiesel, M. Sc. Natural Resources Sciences and Management & environmental journalist, founder of [[Save Arlington Wildlife](https://savearlingtonwildlife.org)].
+- Laura Kiesel, M. Sc. Natural Resources Sciences and Management & environmental journalist, founder of [Save Arlington Wildlife](https://savearlingtonwildlife.org).
 - Gary Menin, Sr., former local representative for Raptors are the Solution (RATS), [Talkin’ Birds](https://www.talkinbirds.com) Ambassador, and an advocate for keeping our raptors poison free.
 
-Please join us for this interactive presentation on February 11, 2023 at Lexington Community Center, room 242 from 2:30-4:00 pm. Please RSVP [[here](https://www.mobilize.us/indivisiblelab/event/548033/)].
+Please join us for this interactive presentation on February 11, 2023 at Lexington Community Center, room 242 from 2:30-4:00 pm. Please RSVP [here](https://www.mobilize.us/indivisiblelab/event/548033/).
 
 Note: masks are required at this event.
 
