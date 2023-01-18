@@ -1,5 +1,5 @@
 ---
-title: Support SGARs Bill H.4931 - Protect Wildlife
+title: 'Rodent Control: the Good, the Bad, and the Ugly.'
 date: 2022-12-07 09:00:00 Z
 categories:
 - action
