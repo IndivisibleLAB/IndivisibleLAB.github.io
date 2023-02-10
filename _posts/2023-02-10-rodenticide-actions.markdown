@@ -1,12 +1,13 @@
 ---
 title: Rodenticide Actions
-date: 2023-02-10 21:34:00 Z
+date: 2023-02-10 16:00:00 Z
 published: false
 categories:
 - action
 tags:
 - rats
 main-image: "/uploads/0.jpeg"
+event-start-date: 2023-02-10 00:00:00 Z
 ---
 
 There are numerous actions that you can take to help with the rodenticide problem. At this time, here are the most important ones:
