@@ -1,7 +1,6 @@
 ---
 title: IndivisibleLAB Action Hour
 date: 2023-02-14 10:00:00 Z
-published: false
 categories:
 - event
 tags:
@@ -18,4 +17,4 @@ Join us at the next IndivisibleLAB Action Hour where we will distribute postcard
 
 Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. 
 
-Please RSVP and include the number of packets you want: https://mobilize.us/s/hgAbvp****
+Please RSVP and include the number of packets you would like: https://mobilize.us/s/hgAbvp****
