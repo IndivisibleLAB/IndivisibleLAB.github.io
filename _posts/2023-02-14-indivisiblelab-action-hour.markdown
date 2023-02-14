@@ -17,4 +17,4 @@ Join us at the next IndivisibleLAB Action Hour where we will distribute postcard
 
 Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. 
 
-Please RSVP and include the number of packets you would like: https://mobilize.us/s/hgAbvp
+Please [RSVP](https://mobilize.us/s/hgAbvp) and include the number of packets you would like.
