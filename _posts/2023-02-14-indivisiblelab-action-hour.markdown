@@ -20,4 +20,4 @@ In Wisconsin, an important upcoming election will determine the balance of power
 We will be sending postcards to pro choice voters asking them to vote for Judge Janet Protasiewicz for the Wisconsin State Supreme Court election on April 4. Each packet will contain everything that you need to write 25 postcards. The price is $15.
  
 
-Please [RSVP (https://www.mobilize.us/indivisiblelab/event/551279/) and include the number of packets you would like.
+Please [RSVP](https://www.mobilize.us/indivisiblelab/event/551279/) and include the number of packets you would like.
