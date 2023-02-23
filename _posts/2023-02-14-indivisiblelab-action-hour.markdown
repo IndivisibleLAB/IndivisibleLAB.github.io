@@ -1,5 +1,5 @@
 ---
-title: IndivisibleLAB Action Hour
+title: IndivisibleLAB Action Hour - WI
 date: 2023-02-14 10:00:00 Z
 categories:
 - event
@@ -13,8 +13,11 @@ Location: Via Lago, 1845 Massachusetts Ave, Lexington, MA 02420
 RSVP-link: https://mobilize.us/s/hgAbvp
 ---
 
-Join us at the next IndivisibleLAB Action Hour where we will distribute postcard packets, discuss current events, and write to our legislators. 
+Join us for our next Action Hour where we will distribute postcard packets, discuss current events, and write to our legislators.
 
-Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. 
+In Wisconsin, an important upcoming election will determine the balance of power in the state’s divided 4-3 Supreme Court. Vital decisions on abortion rights, election rules, unions, and so much more are on the line. Activate America is excited to turn out Democrats who will side with democracy and decency in this election.
 
-Please [RSVP](https://mobilize.us/s/hgAbvp) and include the number of packets you would like.
+We will be sending postcards to pro choice voters asking them to vote for Judge Janet Protasiewicz for the Wisconsin State Supreme Court election on April 4. Each packet will contain everything that you need to write 25 postcards. The price is $15.
+ 
+
+Please [RSVP (https://www.mobilize.us/indivisiblelab/event/551279/) and include the number of packets you would like.
