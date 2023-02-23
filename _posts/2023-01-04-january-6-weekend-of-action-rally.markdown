@@ -1,6 +1,7 @@
 ---
 title: January 6 Weekend of Action Rally
 date: 2023-01-04 22:09:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/Speakers%20with%20Banner.JPG"
