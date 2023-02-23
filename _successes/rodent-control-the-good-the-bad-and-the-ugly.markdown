@@ -1,6 +1,9 @@
 ---
 title: 'Rodent Control: the Good, the Bad, and the Ugly'
 date: 2023-02-11 14:30:00 Z
+categories:
+- successes
+is featured: true
 main-image: "/uploads/IMG_6749-4b1355.HEIC"
 ---
 
