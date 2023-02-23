@@ -2,7 +2,7 @@
 title: 'Rodent Control: the Good, the Bad, and the Ugly'
 date: 2022-02-11 14:30:00 Z
 categories:
-- successes
+- event
 is featured: false
 main-image: "/uploads/IMG_0472.HEIC"
 ---
