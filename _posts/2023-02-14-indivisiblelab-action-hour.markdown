@@ -6,7 +6,7 @@ categories:
 tags:
 - postcard
 - write
-main-image: "/uploads/IndivisibleLABwave2-2a7e19.jpg"
+main-image: "/uploads/WelcomeToWisconsin.jpg"
 event-start-date: 2023-03-01 10:30:00 Z
 event-end-date: 2023-03-01 11:30:00 Z
 Location: Via Lago, 1845 Massachusetts Ave, Lexington, MA 02420
