@@ -6,7 +6,7 @@ categories:
 tags:
 - rats
 main-image: "/uploads/0.jpeg"
-event-start-date: 2023-02-10 00:00:00 Z
+event-start-date: 2023-03-02 00:00:00 Z
 ---
 
 Let's help the wildlife - take action! There are numerous actions that you can take to help with the rodenticide problem. At this time, here are the most important ones: ensure that your state representative and state senator support HD.577 and SD.114; ensure that your state representative and state senator support HD.930 and SD.1729; and ensure that your state representative and senator support Arlington in its effort control SGARs in their town HD.230
