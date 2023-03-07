@@ -10,7 +10,7 @@ main-image: "/uploads/Wisconsin.jpg"
 event-start-date: 2023-03-15 10:30:00 Z
 event-end-date: 2023-03-15 11:30:00 Z
 Location: Via Lago, 1845 Massachusetts Ave, Lexington, MA
-RSVP-link: https://www.mobilize.us/indivisiblelab/event/546822/
+RSVP-link: https://mobilize.us/s/PleOWn
 ---
 
 Join us for our next Action Hour where we will distribute postcard packets, discuss current events, and write to our legislators.
