@@ -19,9 +19,9 @@ In collaboration with Swing Blue Alliance, we will be writing to increase turnou
 
 This project is aimed at prochoice WI voters at high risk not to vote (“low propensity”). Targeting this group is proven to be the most effective way to increase turnout.
 
-The script is short, it is mail as you go, and has a deadline of March 17th.
+The script is short, it is mail as you go, and has a deadline of March 27th.
 
-Each packet will contain everything that you need to write 25 postcards. It even has pre-printed address labels! The price is $15.
+Each packet will contain everything that you need to write 25 postcards. It even has pre-printed address labels! The price is $17.
 Please [RSVP](https://mobilize.us/s/PleOWn) and let us know how many packets we should reserve.
 
 Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. 
