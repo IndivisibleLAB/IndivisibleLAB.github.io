@@ -1,8 +1,11 @@
 ---
 title: IndivisibleLAB Action Hour - Wisconsin
-date: 2023-03-06 15:33:00 Z
+date: 2023-03-05 15:33:00 Z
 categories:
 - event
+tags:
+- wisconsin
+- election
 main-image: "/uploads/Wisconsin.jpg"
 event-start-date: 2023-03-15 10:30:00 Z
 event-end-date: 2023-03-15 11:30:00 Z
