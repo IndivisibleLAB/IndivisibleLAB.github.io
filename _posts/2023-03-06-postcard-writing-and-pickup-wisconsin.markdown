@@ -22,5 +22,3 @@ Each packet will contain everything that you need to write 25 postcards. It even
 Please [RSVP](https://mobilize.us/s/PleOWn) and let us know how many packets we should reserve.
 
 Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. 
-
-Please sign up and let us know how many packets we should reserve [here](https://www.mobilize.us/indivisiblelab/event/546822/).
