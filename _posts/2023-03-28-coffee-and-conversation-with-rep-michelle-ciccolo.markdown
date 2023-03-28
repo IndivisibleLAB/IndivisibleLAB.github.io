@@ -1,10 +1,10 @@
 ---
 title: Coffee and Conversation with Rep. Michelle Ciccolo
-date: 2023-03-28 16:00:00 Z
+date: 2023-03-28 16:05:00 Z
 categories:
 - event
 tags:
-- Coffe
+- coffee
 main-image: "/uploads/Ciccolo2-2aaac7.jpeg"
 event-start-date: 2023-04-05 10:30:00 Z
 event-end-date: 2023-04-05 11:30:00 Z
