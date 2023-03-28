@@ -9,7 +9,6 @@ main-image: "/uploads/Ciccolo2-2aaac7.jpeg"
 event-start-date: 2023-04-05 10:30:00 Z
 event-end-date: 2023-04-05 11:30:00 Z
 Location: 1875 Massachusetts Ave, Lexington, MA
-RSVP-link: https://www.mobilize.us/indivisiblelab/event/555860/
 https://www.mobilize.us/indivisiblelab/event/555860/: 
 ---
 
