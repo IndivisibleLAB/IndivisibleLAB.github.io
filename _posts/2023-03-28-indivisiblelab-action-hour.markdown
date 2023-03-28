@@ -6,6 +6,7 @@ categories:
 tags:
 - action
 - hanscom
+main-image: "/uploads/IndivisibleLABwave2-ec2ee0.jpg"
 event-start-date: 2023-03-29 10:30:00 Z
 event-end-date: 2023-03-29 11:30:00 Z
 Location: Via Lago, 1845 Massachusetts Ave, Lexington, MA
