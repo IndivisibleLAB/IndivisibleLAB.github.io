@@ -6,7 +6,7 @@ categories:
 tags:
 - election
 - california
-main-image: "/uploads/Wisconsin.jpg"
+main-image: "/uploads/IndivisibleLABwave3.jpg"
 event-start-date: 2023-04-12 10:30:00 Z
 event-end-date: 2023-04-12 11:30:00 Z
 Location: Via Lago, 1845 Massachusetts Ave, Lexington, MA
