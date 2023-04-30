@@ -2,7 +2,7 @@
 title: Proposed Hanscom Expansion
 date: 2018-03-29 00:00:00 Z
 categories:
-- success
+- event
 tags:
 - hanscom
 main-image: "/uploads/MCoppe.jpg"
