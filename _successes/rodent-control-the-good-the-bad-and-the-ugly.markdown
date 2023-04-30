@@ -1,6 +1,6 @@
 ---
 title: 'Rodent Control: the Good, the Bad, and the Ugly'
-date: 2022-02-11 14:30:00 Z
+date: 2018-06-01 14:30:00 Z
 categories:
 - event
 is featured: false
