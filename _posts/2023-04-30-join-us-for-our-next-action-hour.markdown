@@ -4,7 +4,7 @@ date: 2023-04-30 15:16:00 Z
 categories:
 - event
 main-image: "/uploads/IndivisibleLABwave-bbc97f.jpg"
-event-start-date: 2023-05-10 00:00:00 Z
+event-start-date: 2023-05-10 10:30:00 Z
 event-end-date: 2023-05-10 11:30:00 Z
 Location: Via Lago, 1845 Massachusetts Avenue, Lexington
 ---
