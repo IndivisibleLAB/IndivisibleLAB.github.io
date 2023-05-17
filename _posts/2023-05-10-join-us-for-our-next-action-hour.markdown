@@ -14,4 +14,4 @@ While only Santos has been arrested by federal authorities for campaign finance 
 
 The campaign is writing to voters 40 years of age and older about their priorities of social security and veterans benefits, and to voters under 40 about student debt relief and climate change priorities.
 
-Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. Please RSVP to let us know you are coming and how many packets that you would like. 
+Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. Please [RSVP](https://mobilize.us/s/PbqCQb) to let us know you are coming and how many packets that you would like. 
