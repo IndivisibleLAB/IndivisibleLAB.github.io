@@ -1,5 +1,5 @@
 ---
-title: Join us for our next Action Hour
+title: IndivisibleLAB Action Hour - NY
 date: 2023-05-16 20:52:00 Z
 main-image: "/uploads/HelloNewYork.pdf"
 event-start-date: 2023-05-24 10:30:00 Z
