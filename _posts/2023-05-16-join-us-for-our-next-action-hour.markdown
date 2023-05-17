@@ -4,7 +4,7 @@ date: 2023-05-16 20:52:00 Z
 main-image: "/uploads/HelloNewYork.pdf"
 event-start-date: 2023-05-24 10:30:00 Z
 event-end-date: 2023-05-24 11:30:00 Z
-Location: Via Lago, Mass Ave
+Location: Via Lago, 1845 Massachusetts Avenue, Lexington
 RSVP-link: https://mobilize.us/s/PbqCQb
 ---
 
