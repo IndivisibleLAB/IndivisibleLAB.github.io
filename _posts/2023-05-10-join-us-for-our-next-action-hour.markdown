@@ -16,4 +16,6 @@ Join us for our next Action Hour where we will discuss current events, distribut
 
 We will write for NY-17, "represented" in the US House of Representatives by Republican Congressman Mike Lawler - one of Indivisible's target unrepresentatives in a Biden-won district. Mike Lawler voted in lockstep with the MAGA extremists on the GOP's "Default on America" bill. They want to cut Social Security and veteran benefits, roll back student debt relief, and eliminate vital climate change actions as part of their hostage-taking approach to raising the national debt ceiling. The campaign is writing to voters 40 years of age and older about their priorities of social security and veterans benefits, and to voters under 40 about student debt relief and climate change priorities
 
+Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and instructions.) The mailing date is three weeks after you receive your packet. Reimbursement is $15. 
+
 Please feel free to come and share any issues you are working on. We all learn from each other! Meet us at Via Lago in Lexington Center. Feel free to bring a friend, just stop by to say hello, or pickup postcard packets even if you can’t stay. Please [RSVP](https://mobilize.us/s/PbqCQb) to let us know you are coming and how many packets that you would like. 
