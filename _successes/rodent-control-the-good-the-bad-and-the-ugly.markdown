@@ -1,6 +1,7 @@
 ---
 title: 'Rodent Control: the Good, the Bad, and the Ugly'
 date: 2018-06-01 14:30:00 Z
+published: false
 categories:
 - event
 is featured: false
