@@ -1,6 +1,6 @@
 ---
 title: At the Concord Indivisible Huddle
-date: 2023-02-05 20:56:00 Z
+date: 2018-01-01 20:56:00 Z
 categories:
 - event
 tags:
