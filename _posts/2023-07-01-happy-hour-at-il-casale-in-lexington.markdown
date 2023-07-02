@@ -1,6 +1,6 @@
 ---
 title: Happy Hour at Il Casale in Lexington
-date: 2023-07-02 14:37:00 Z
+date: 2023-07-01 14:37:00 Z
 categories:
 - event
 tags:
