@@ -6,7 +6,7 @@ categories:
 tags:
 - ohio
 - postcards
-main-image: "/uploads/OhioiPostcard.pdf"
+main-image: "/uploads/OhioiPostcard.jpg"
 event-start-date: 2023-07-05 10:30:00 Z
 event-end-date: 2023-07-05 11:30:00 Z
 Location: Lexington Visitor Center, 1875 Massachusetts Ave, Lexington, MA
