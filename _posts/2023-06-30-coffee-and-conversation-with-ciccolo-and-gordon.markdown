@@ -1,6 +1,6 @@
 ---
 title: Coffee and Conversation with Ciccolo and Gordon
-date: 2023-07-04 14:45:00 Z
+date: 2023-06-30 14:45:00 Z
 main-image: "/uploads/Ciccolo1.jpeg"
 event-start-date: 2023-07-18 10:30:00 Z
 event-end-date: 2023-07-18 11:30:00 Z
