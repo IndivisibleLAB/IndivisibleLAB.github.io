@@ -1,5 +1,5 @@
 ---
-title: Indivisible LAB Action Hour!
+title: IndivisibleLAB Action Hour!
 date: 2023-08-02 08:00:00 Z
 categories:
 - event
