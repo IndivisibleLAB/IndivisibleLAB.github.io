@@ -1,6 +1,6 @@
 ---
-title: Coffee and Conversation with Ciccolo and Gordon
-date: 2023-06-30 14:45:00 Z
+title: Coffee & Conversation with Reps. Ciccolo and Gordon
+date: 2023-07-11 14:45:00 Z
 categories:
 - event
 tags:
