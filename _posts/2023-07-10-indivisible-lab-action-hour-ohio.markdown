@@ -12,6 +12,10 @@ Location: Lexington Visitor Center, 1875 Massachusetts Ave, Lexington, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour at the Lexington Visitor Center (tables on the patio in the back). As usual, we will distribute postcard packets, discuss current events, and have some laughs. 
+Hope you can join us for one or more of our Action Hours at the Lexington Visitor Center (tables on the patio in the back). 
 
-We’ll be announcing our next postcard campaign here soon. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) so that we know to expect you and how many packets to reserve.
+On August 2, we will be writing to support Ruben Gallego for the Arizona Senate seat. Democrat Ruben Gallego is a champion for reasonable gun safety and the only Democrat running for the Arizona Senate seat currently held by Kyrsten Sinema. We are writing to infrequent Democratic voters to raise name awareness for Gallego and highlight his work on this crucial issue.
+
+Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and instructions). These cards are to be mailed as you complete them and within three weeks. Reimbursement is $15. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) so that we know to expect you and how many packets to reserve.
+
+We will also discuss the MA Omnibus Gun Safety bill and other local and state issues. Please feel free to come and share anything you are working on. We all learn from each other!
