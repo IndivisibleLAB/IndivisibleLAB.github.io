@@ -1,6 +1,6 @@
 ---
 title: IndivisibleLAB Action Hour
-date: 2023-07-26 08:00:00 Z
+date: 2023-07-25 08:00:00 Z
 categories:
 - event
 tags:
