@@ -12,7 +12,7 @@ Location: Lexington Visitor Center, 1875 Massachusetts Ave, Lexington, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Hope you can join us for one or more of our Action Hours at the Lexington Visitor Center (tables on the patio in the back). 
+Hope you can join us for our Action Hour at the Lexington Visitor Center (tables on the patio in the back). 
 
 On August 2, we will be writing to support Ruben Gallego for the Arizona Senate seat. Democrat Ruben Gallego is a champion for reasonable gun safety and the only Democrat running for the Arizona Senate seat currently held by Kyrsten Sinema. We are writing to infrequent Democratic voters to raise name awareness for Gallego and highlight his work on this crucial issue.
 
