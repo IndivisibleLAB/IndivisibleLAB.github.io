@@ -12,7 +12,7 @@ Location: Lexington Visitor Center, 1875 Massachusetts Ave, Lexington, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Hope you can join us for our Action Hour at the Lexington Visitor Center (tables on the patio in the back). 
+Hope you can join us for our next Action Hour at the Lexington Visitor Center (tables on the patio in the back). As usual, we will distribute postcard packets, discuss current events, and have some laughs.
 
 We’ll be announcing our next postcard campaign here soon. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) so that we know to expect you and how many packets to reserve.
 
