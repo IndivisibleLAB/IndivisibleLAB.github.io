@@ -14,6 +14,8 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 
 Hope you can join us for our next Action Hour at the Lexington Visitor Center (tables on the patio in the back). As usual, we will distribute postcard packets, discuss current events, and have some laughs.
 
-We’ll be announcing our next postcard campaign here soon. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) so that we know to expect you and how many packets to reserve.
+On August 16, we are partnering with the National Women’s Political Caucus of Virginia to write postcards to women in support of Lily Franklin, who is running for the Virginia House of Delegates. She is running for an open seat in the 41st district in Southwest Virginia whose boundaries were redrawn in 2022. It is important we reach out to women because Virginia is the last southern state where abortion is still safe and legal.
 
-Feel free to come and share anything you are working on. We all learn from each other!
+Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and instructions). These cards should be held and mailed on or shortly after Sept. 12 so that they arrive just before early voting begins on Sept. 22. Reimbursement is $15. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) so that we know to expect you and how many packets to reserve.
+
+We will also be discussing efforts to support Indigenous Peoples Day and other local and state issues. Feel free to come and share anything you are working on. We all learn from each other!
