@@ -8,6 +8,7 @@ tags:
 main-image: "/uploads/postcarding-0d9917.jpeg"
 event-start-date: 2023-08-30 10:30:00 Z
 event-end-date: 2023-08-30 11:30:00 Z
+Location: Lexington Visitor Center, 1875 Massachusetts Ave, Lexington, MA
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
