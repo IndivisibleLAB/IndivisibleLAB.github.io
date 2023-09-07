@@ -14,12 +14,8 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 
 Join us for our next Action Hour at the Lexington Visitor Center (tables on the patio in the back). As usual, we will distribute postcard packets, discuss current events, and have some laughs.
 
-On September 13, we will be writing Swing Blue Alliance postcards to support [Jade Harris for the VA State Senate](https://www.jadeharrisva.com/)and also expect to have another postcard campaign. 
+On September 13, we will write postcards to unregistered likely Democrats in Pennsylvania with MA Flip PA. These addresses in Schuylkill County and Lehigh County come from the national database of Field Team 6. MA Flip PA's partners in PA  will follow up by canvassing to ensure these prospects register and VOTE!
 
-Jade has made supporting reproductive choice, expanding mental health care, repealing right-to-work laws, strengthening unions, and supporting local farmers among her priorities. She is a 2020 graduate of Mary Baldwin University and has been an organizer for March for Our Lives and worked on voter registration drives.
+Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and instructions). There is no fixed deadline for mailing these postcards, but the deadline for registering to vote this year is October 23 - We will need these voters in 2024 for the Presidential and Senate races. Reimbursement is $15. We will also have some Swing Blue Alliance postcards to support [Jade Harris for the VA State Senate](jadeharrisva.com) - Reimbursement is $18. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) and let us know how many packets to reserve.  
 
-Currently, Democrats have a narrow majority in the State Senate. We can’t take it for granted though – it’s the only brake on radical Republicans led by Gov. Youngkin. Since all seats come up for election at the same time, it’s really important to work on the state legislature. Rural voters hold under-recognized power to influence the outcome of elections for the US Senate and the Electoral College. One of the important ways we can help our democracy get on track is to take back state legislatures by driving up rural voter participation.
-
-Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and instructions). Hold and Mail these cards on Oct 2, 2023. Reimbursement is $18. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) and let us know how many packets to reserve.
-
-We will also discuss our humongous plastics problem and Indivisible Mass Coalition's Feminist Action Team's [campaign](https://docs.google.com/document/d/1rUPSQ5I9AS-Umcg5P3N-EcUxoCCK2JeIFlNhJJ4dx6w/edit?usp=sharing) to send two postcards to our legislators to protect reproductive rights. Please feel free to come and share anything you are working on. We all learn from each other!
+Please feel free to come and share anything you are working on. We all learn from each other!
