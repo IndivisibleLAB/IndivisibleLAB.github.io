@@ -16,4 +16,6 @@ Join us for our next Action Hour at the Lexington Visitor Center (tables on the 
 
 On September 27, we will have another Virginia postcard campaign and will announce the details soon. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) and let us know how many packets to reserve.  
 
+[Mara Dolan](https://maradolan.com/), who is running for Governor's Council in 2024, will be joining us.
+
 Please feel free to come and share anything you are working on. We all learn from each other!
