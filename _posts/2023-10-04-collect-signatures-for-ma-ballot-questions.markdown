@@ -3,6 +3,8 @@ title: Collect Signatures for MA Ballot Questions
 date: 2023-10-04 13:46:00 Z
 categories:
 - action
+main-image: "/uploads/Ballot%20Sheets.jpg"
+RSVP-link: https://www.mobilize.us/indivisiblelab/event/582499/
 ---
 
 IndivisibleLAB members are collecting signatures to help get several questions on the MA ballot in 2024 including ones to:
