@@ -24,6 +24,6 @@ Each packet has everything you need to send 20 letters (Pre-printed letters, add
 
 Indivisible National has provided us Ohio Pro-Choice postcards at no cost. Anyone writing for the Working America letter or VA postcard campaign will also receive a free OH packet. Each packet contains everything you need to write 20 postcards (cards, stamps, labels, and [instructions](https://docs.google.com/document/d/121XadD8XtVtx_BHsKbGc3AV41hOhNJgE9hVnPXjidoc/edit?usp=sharing)).
 
-We will also have ballot petitions to sign and a bin to collect donations for IMC's 40 bin project to support women and reproductive healthcare.Thank you for dropping off any of the following items: Tylenol, ibuprofen, heating pads, individually wrapped tampons and pads or packages of tampons and pads; gift cards in any amount for Target or CVS; mittens, hats, socks.
+We will also have ballot petitions to sign and a bin to collect donations for IMC's 40 bin project to support women and reproductive healthcare. Thank you for dropping off any of the following items: Tylenol, ibuprofen, heating pads, individually wrapped tampons and pads or packages of tampons and pads; gift cards in any amount for Target or CVS; mittens, hats, socks.
 
 Feel free to come and share anything you are working on. We all learn from each other!
