@@ -8,6 +8,7 @@ tags:
 main-image: "/uploads/postcarding-0d9917.jpeg"
 event-start-date: 2023-10-25 10:30:00 Z
 event-end-date: 2023-10-25 11:30:00 Z
+Location: Lexington
 ---
 
 Join us for our next Action Hour in Lexington. Now that the weather is getting colder, we'll be meeting indoors and will post an RSVP form with more details soon. 
