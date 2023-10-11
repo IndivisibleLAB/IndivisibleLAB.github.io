@@ -15,6 +15,6 @@ Join us for our next Action Hour in Lexington. Now that the weather is getting c
 
 We won't have postcards at this event, but are planning to have a special guest to discuss why it's so difficult to pass legislation at the State House. 
 
-We will also have ballot petitions to sign and a bin to collect donations for Indivisible Mass Coalitions's [40 bin project](https://mcusercontent.com/448f2617a0ea6d2c20e5c403c/files/b6dd9d89-3cbc-3e44-eeee-6505abf7ccdc/40_Days_of_REAL_Help.pdf) to support women and reproductive healthcare. Thank you for dropping off any of the following items: Tylenol, ibuprofen, heating pads, individually wrapped tampons and pads or packages of tampons and pads; gift cards in any amount for Target or CVS; mittens, hats, socks.
+We will also have ballot petitions to sign and a bin to collect donations for Indivisible Mass Coalition's [40 bin project](https://mcusercontent.com/448f2617a0ea6d2c20e5c403c/files/b6dd9d89-3cbc-3e44-eeee-6505abf7ccdc/40_Days_of_REAL_Help.pdf) to support women and reproductive healthcare. Thank you for dropping off any of the following items: Tylenol, ibuprofen, heating pads, individually wrapped tampons and pads or packages of tampons and pads; gift cards in any amount for Target or CVS; mittens, hats, socks.
 
 Feel free to come and share anything you are working on. We all learn from each other!
