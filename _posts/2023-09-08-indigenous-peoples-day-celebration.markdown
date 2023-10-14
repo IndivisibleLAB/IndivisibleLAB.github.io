@@ -1,6 +1,7 @@
 ---
 title: Indigenous Peoples Day Celebration
 date: 2023-09-08 17:00:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/IPD%20Bedford.png"
