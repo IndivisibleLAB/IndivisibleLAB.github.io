@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - postcards
-main-image: "/uploads/postcarding-0d9917.jpeg"
+main-image: "/uploads/wave_circle_round_2c_360.jpg"
 event-start-date: 2023-10-25 10:30:00 Z
 event-end-date: 2023-10-25 11:30:00 Z
 Location: Lexington
