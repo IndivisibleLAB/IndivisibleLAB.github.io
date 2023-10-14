@@ -9,9 +9,10 @@ main-image: "/uploads/postcarding-0d9917.jpeg"
 event-start-date: 2023-10-25 10:30:00 Z
 event-end-date: 2023-10-25 11:30:00 Z
 Location: Lexington
+RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour in Lexington. Now that the weather is getting colder, we'll be meeting indoors and will post an RSVP form with more details soon. 
+Join us for our next Action Hour in Lexington. Now that the weather is getting colder, we'll be meeting indoors. You'll receive details about the location in your confirmation email after you [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/).
 
 We won't have postcards at this event, but are planning to have a special guest to discuss why it's so difficult to pass legislation at the State House. 
 
