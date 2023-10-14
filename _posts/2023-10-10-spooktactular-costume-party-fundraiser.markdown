@@ -1,9 +1,9 @@
 ---
 title: Spooktactular Costume Party FUNdraiser
-date: 2023-10-14 21:36:00 Z
+date: 2023-10-10 21:36:00 Z
 categories:
 - event
-main-image: "/uploads/Spooktactular%20Fundraiser.png"
+main-image: "/uploads/IAA%20Spooktactular%20Fundraiser.png"
 event-start-date: 2023-10-29 14:30:00 Z
 event-end-date: 2023-10-29 16:30:00 Z
 Location: Harvey Wheeler Community Center, 1276 Main St, Concord, MA
