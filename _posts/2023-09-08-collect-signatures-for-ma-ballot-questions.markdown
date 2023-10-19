@@ -7,7 +7,7 @@ main-image: "/uploads/Ballot%20Sheets.jpg"
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/582499/
 ---
 
-IndivisibleLAB members are collecting signatures to help get [several questions](https://docs.google.com/document/d/1qgYDxB6xWU57ZVpEW0Sng8xAYvXE2oday4IS-6G5zec/edit?usp=sharing) on the MA ballot in 2024 including ones to:
+IndivisibleLAB members are collecting signatures to help get [several questions](https://docs.google.com/document/d/1qgYDxB6xWU57ZVpEW0Sng8xAYvXE2oday4IS-6G5zec/edit?usp=sharing) on the MA ballot including ones to:
 Allow same day voter registration in MA;
 Phase in the full minimum wage for tipped workers;
 Clarify that the State Auditor can audit the State Legislature;
