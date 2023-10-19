@@ -7,12 +7,12 @@ main-image: "/uploads/Ballot%20Sheets.jpg"
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/582499/
 ---
 
-IndivisibleLAB members are collecting signatures to help get several questions on the MA ballot in 2024 including ones to:
+IndivisibleLAB members are collecting signatures to help get [several questions](https://docs.google.com/document/d/1qgYDxB6xWU57ZVpEW0Sng8xAYvXE2oday4IS-6G5zec/edit?usp=sharing) on the MA ballot in 2024 including ones to:
 Allow same day voter registration in MA;
 Phase in the full minimum wage for tipped workers;
 Clarify that the State Auditor can audit the State Legislature;
 Remove MCAS as a graduation requirement; 
-Restore voting rights for incarcerated people. 
+Restore voting rights for incarcerated people; Allow a local option for rent control. 
 
 On Tuesday afternoons, we’ll be collecting signatures at the Worthen Road entrance to the Lexington Farmers Market and would love to have you join us! Most volunteers stay for an hour (or longer), but any amount of time you can spend is appreciated! We’re usually there from 2-5, but may be able to arrange other time slots. Sign up [HERE](https://www.mobilize.us/indivisiblelab/event/582499/) and we’ll email you to confirm what time(s) work best for you. 
 
