@@ -14,7 +14,7 @@ Clarify that the State Auditor can audit the State Legislature;
 Remove MCAS as a graduation requirement; 
 Restore voting rights for incarcerated people; Allow a local option for rent control. 
 
-On Tuesday afternoons through October, we’ll be collecting signatures at the Worthen Road entrance to the Lexington Farmers Market and would love to have you stop by to sign the petitions or even join us for awhile! We’ll be there from 2-5 unless it's raining. Most volunteers stay for an hour or so, but any amount of time you can spend is appreciated. Sign up [HERE](https://www.mobilize.us/indivisiblelab/event/582499/). 
+On Tuesday afternoons through October, we’ll be collecting signatures at the Worthen Road entrance to the Lexington Farmers Market and will be there from 2-5 unless it's raining. Hope you'll stop by say hello and sign the petitions. If you also plan to stay and help for awhile, you can let us know by signing up [HERE](https://www.mobilize.us/indivisiblelab/event/582499/). 
 
 Can’t join us at the Farmers Market? We can provide sheets that you can use to collect signatures on your own. Even if you can only get a handful of signatures from family or friends, that’s a big help as campaigns must collect almost 75,000 signatures from registered voters by Nov. 22 to be on the ballot next year! 
 
