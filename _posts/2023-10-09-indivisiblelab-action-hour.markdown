@@ -14,6 +14,6 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 
 Join us for our next Action Hour in Lexington. Now that the weather is getting colder, we'll be meeting indoors. You'll receive details about the location in your confirmation email after you [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/).
 
-We'll discuss election results and celebrate the candidates we wrote postcards for this year! We will also have [ballot petitions](https://docs.google.com/document/d/1qgYDxB6xWU57ZVpEW0Sng8xAYvXE2oday4IS-6G5zec/edit?usp=sharing) to sign and information on how to write postcards on your own until we resume our postcard campaigns in 2024.
+Discuss election results and celebrate the candidates we wrote postcards for this year! Bring your phone, laptop, or tablet to learn how to write postcards on your own until we resume our postcard campaigns in 2024. We'll also have [ballot petitions](https://docs.google.com/document/d/1qgYDxB6xWU57ZVpEW0Sng8xAYvXE2oday4IS-6G5zec/edit?usp=sharing) for anyone who hasn't had a chance to sign them yet.
 
 Feel free to come and share anything you are working on. We all learn from each other!
