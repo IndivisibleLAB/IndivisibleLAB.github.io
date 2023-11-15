@@ -1,6 +1,7 @@
 ---
 title: Collect Signatures for MA Ballot Questions
 date: 2023-09-08 13:46:00 Z
+published: false
 categories:
 - action
 main-image: "/uploads/Ballot%20Sheets.jpg"
