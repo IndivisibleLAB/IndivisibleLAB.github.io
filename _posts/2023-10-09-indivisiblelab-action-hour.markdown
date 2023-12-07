@@ -6,14 +6,16 @@ categories:
 tags:
 - postcards
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
-event-start-date: 2023-11-29 10:30:00 Z
-event-end-date: 2023-11-29 11:30:00 Z
+event-start-date: 2023-12-13 10:30:00 Z
+event-end-date: 2023-12-13 11:30:00 Z
 Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour in Lexington. Now that the weather is getting colder, we'll be meeting indoors. You'll receive details about the location in your confirmation email after you [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/).
+Join us for our next Action Hour in Lexington! You'll receive details about the location in your confirmation email after you [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/).
 
-On November 29, a representative from [Stop Private Jet Expansion at Hanscom or Anywhere](https://www.stopprivatejetexpansion.org/) will join us to discuss the campaign and answer your questions. We’ll also have postcards you can send to Governor Healey asking for her support in opposing expansion of private jets and to the major developer of the project, questioning his rationale for supporting such an initiative. 
+On December 13, Christine Brown will tell us about effective strategies for political donations - including organizations to donate to as well as timing. Let’s make the most of our donation dollars to support pro-democracy candidates up and down the ballot. Christine is a founder of [Turn Purple 2 Blue](https://turnpurple2blue.org/) and a steering committee member of [Indivisible Acton Area](http://www.indivisibleacton.org/).  
 
-Feel free to come and share anything you are working on. We all learn from each other!
+We will also be giving away several copies of the book [*The Persuaders: At the Front Lines of the Fight for Hearts, Minds, and Democracy*](https://bookshop.org/p/books/the-persuaders-at-the-front-lines-of-the-fight-for-hearts-minds-and-democracy-anand-giridharadas/20131017?ean=9780593312643) by Anand Giridharadas in preparation for our book discussion on January 10. 
+
+Feel free to come and share anything you are working on. We all learn from each other! working on. We all learn from each other!
