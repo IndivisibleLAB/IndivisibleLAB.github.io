@@ -1,11 +1,12 @@
 ---
 title: Rodenticide Actions
-date: 2023-03-02 15:00:00 Z
+date: 2024-01-01 15:00:00 Z
 categories:
 - action
 tags:
 - rats
 - help
+- poison
 main-image: "/uploads/0.jpeg"
 event-start-date: 2024-01-01 00:00:00 Z
 ---
