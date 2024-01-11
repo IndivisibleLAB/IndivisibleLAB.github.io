@@ -22,7 +22,7 @@ Presenters include:
 - Gary Menin, Sr., former local representative for Raptors are the Solution (RATS), [Talkin’ Birds](https://www.talkinbirds.com) Ambassador, and an advocate for keeping our raptors poison free.
 - Marci Cemenska, Founder of [Save Lexington Wildlife](https://savelexingtonwildlife.org/).
 
-Please join us for this interactive presentation on February 17, 2024 at Lexington Community Center, room 242 from 2:30-4:00 pm. Please RSVP [here](http://https://www.mobilize.us/indivisiblelab/event/596111/).
+Please join us for this interactive presentation on February 17, 2024 at Lexington Community Center, room 242 from 2:30-4:00 pm. Please RSVP [here](https://www.mobilize.us/indivisiblelab/event/596111/) 
 
 Note: masks are required at this event.
 
