@@ -14,6 +14,6 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/599968/
 
 Join us for our next Action Hour at the Lexington Community Center. As usual, we will distribute postcard packets, discuss current events, and have some laughs.
 
-We’ll be announcing our next postcard campaign here soon. Please RSVP so that we know to expect you and how many packets to reserve.
+We’ll be announcing our next postcard campaign here soon. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/599968/) so that we know to expect you and how many packets to reserve.
 
 Feel free to come and share anything you are working on. We all learn from each other!
