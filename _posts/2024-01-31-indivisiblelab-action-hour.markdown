@@ -8,11 +8,11 @@ tags:
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
 event-start-date: 2024-02-07 10:30:00 Z
 event-end-date: 2024-02-07 11:30:00 Z
-Location: Lexington
+Location: 55 Watertown St, Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour. As usual, we will distribute postcard packets, discuss current events, and have some laughs. The location, near the Belmont town line, will be included in the confirmation email you receive after signing up.
+Join us for our next Action Hour. As usual, we will distribute postcard packets, discuss current events, and have some laughs. Additional location details will be included in the confirmation email you receive after signing up.
 
 On February 7, we’ll be writing postcards to unregistered likely Democrats in Erie County, an “island of blue” in red, rural northwest Pennsylvania ([MAFlipPA](https://www.maflippa.org/) Postcard Campaign). Even postcards returned due to wrong addresses or deceased or moved recipients are not wasted because local volunteers will use the returns to clean up the voter files to avoid wasted effort in future voter contacts.
 
