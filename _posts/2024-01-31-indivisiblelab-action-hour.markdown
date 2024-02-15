@@ -18,6 +18,6 @@ We will write postcards to unregistered likely Democrats in Michigan’s 7th dis
 
 Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and instructions). Reimbursement is $15. Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) and let us know how many packets to reserve.  
 
-We will also be discussing an important local initiative. Lexington Town Meeting will be voting this spring on whether the town should designate a parcel of  land it owns for new affordable housing and authorize a call for bids to developers. 
+We will also be discussing an important local initiative. Lexington Town Meeting will be voting this spring on whether the town should designate a parcel of land it owns for new affordable housing and authorize a call for bids to developers. 
 
 Feel free to come and share anything you are working on. We all learn from each other!
