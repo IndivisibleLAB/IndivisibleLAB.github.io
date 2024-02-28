@@ -18,4 +18,6 @@ At our March 6 Action Hour, we will write voter registration postcards to unregi
 
 Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and [instructions](https://drive.google.com/file/d/10ySXoRHQOC7C2kbi6n3NU9mfJPLzJC3b/view?usp=sharing)). Reimbursement is $15. Please RSVP and let us know how many packets to reserve.
 
+We’ll also hear from members who will be presenting citizen articles at Lexington’s Town Meeting this spring.
+
 Feel free to come and share anything you are working on. We all learn from each other!
