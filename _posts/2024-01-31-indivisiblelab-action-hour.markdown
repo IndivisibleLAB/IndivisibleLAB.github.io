@@ -18,7 +18,7 @@ We’ll distribute postcard packets for Arizona CD-06, one of Indivisible’s �
 
 Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and [instructions](https://docs.google.com/document/d/14R9yH78HanpfOlubg6FvoZ5i9XuHwTrZZpIXkPkkiIU/edit?usp=sharing)). Reimbursement is $15.
 
-We'll also have a special guest! Susan Labandibar from [Swing Blue Alliance](https://swingbluealliance.org/) will review the political landscape in battleground states, summarize the latest research on effective tactics, and discuss ways that we can take action in 2024!
+We'll also have a special guest from [Swing Blue Alliance](https://swingbluealliance.org/) who will review the political landscape in battleground states, summarize the latest research on effective tactics, and discuss ways that we can take action in 2024!
 
 Please RSVP so that we know to expect you and how many postcard packets to reserve.
 
