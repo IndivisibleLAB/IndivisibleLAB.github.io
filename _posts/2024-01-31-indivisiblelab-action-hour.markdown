@@ -12,9 +12,9 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour on April 17! As usual, we will distribute postcard packets, discuss current events, and learn from each other. See the RSVP link for location. 
+Join us for our next Action Hour on April 17 when we'll be discussing key races in CA! As usual, we will distribute postcard packets, discuss current events, and learn from each other. See the RSVP link for location. 
 
-We’ll be discussing key races in CA and announcing our next postcard campaign for CA here soon. 
+We’ll be announcing our next postcard campaign (also for CA) here soon. 
 
 Please RSVP so that we know to expect you and how many postcard packets to reserve.
 
