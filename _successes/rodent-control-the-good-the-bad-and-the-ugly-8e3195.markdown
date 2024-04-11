@@ -1,6 +1,8 @@
 ---
 title: 'Rodent Control: the Good, the Bad, and the Ugly'
 date: 2017-12-22 17:11:00 Z
+categories:
+- presentation
 main-image: "/uploads/IMG_4050.jpg"
 ---
 
