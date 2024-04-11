@@ -12,12 +12,18 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour on April 17 when we'll be discussing key races in CA! See the RSVP link for location. 
+Join us for our next Action Hour on April 17 when we'll be distributing postcards and discussing key races in CA! See the RSVP link for location.
 
-As usual, we will distribute postcard packets, discuss current events, and learn from each other. 
+CA has 5 of Indivisible’s 18 Unrepresentative districts - MAGA Republicans in districts Biden won in 2020. 
 
-We’ll be announcing our next postcard campaign (also for CA) here soon. 
+One of our members who has lived and worked in CA and AZ - and recently returned from working on the CA-41 congressional race, will discuss competitive races in those 2 states and opportunities to help.
+
+We will distribute postcard packets supporting [Democrat Will Rollins in CA-41](https://willrollinsforcongress.com/). We will write to registered Democrats under 46 who are infrequent or newly registered voters. This campaign will introduce Will Rollins to voters and emphasize the importance of voting to protect and restore reproductive rights.
+
+Each packet will contain everything you need to write 25 postcards (Cards, stamps, printed labels, and [instructions](https://drive.google.com/file/d/1OFGES-JQrASg2J_LHCNZtvZ2lNp27Upn/view)). Reimbursement is $15.
+
+Get more details and sign up for postcard packets [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc8kWaLfmECpWp9CiTKAagxEGuMipAwUqefjdJcPwb1HItKNw/viewform). 
 
 Please RSVP so that we know to expect you and how many postcard packets to reserve.
 
-Feel free to come and share anything you are working on!
+Feel free to come and share anything you are working on! We all learn from each other.
