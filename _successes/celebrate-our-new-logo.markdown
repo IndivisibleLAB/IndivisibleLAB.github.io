@@ -1,6 +1,7 @@
 ---
 title: Celebrate Our New Logo
 date: 2018-02-01 16:01:00 Z
+published: false
 categories:
 - event
 tags:
