@@ -12,7 +12,7 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour on April 17 when we'll be distributing postcards and discussing key races in CA! See the RSVP link for location.
+Join us for our next Action Hour on April 17 when we'll be distributing postcards and discussing key races in California! See the RSVP link for location.
 
 CA has 5 of Indivisible’s 18 Unrepresentative districts - MAGA Republicans in districts Biden won in 2020. 
 
