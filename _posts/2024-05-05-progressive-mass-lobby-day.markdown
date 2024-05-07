@@ -1,6 +1,6 @@
 ---
 title: Progressive Mass Lobby Day
-date: 2024-05-07 20:43:00 Z
+date: 2024-05-05 20:43:00 Z
 categories:
 - event
 main-image: "/uploads/Progressive%20Mass%20Lobby%20Day%205-16-24.png"
