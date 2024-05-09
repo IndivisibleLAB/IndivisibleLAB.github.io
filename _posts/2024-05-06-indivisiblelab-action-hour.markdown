@@ -20,4 +20,6 @@ We’ll have pens, colored markers, white-out tapes, and everything else we need
 
 Please RSVP so that we know to expect you and how many postcard packets to reserve. 
 
+Our discussion of David Pepper’s book “Saving Democracy” has been postponed until our May 29th Action Hour. 
+
 Feel free to come and share anything you are working on! 
