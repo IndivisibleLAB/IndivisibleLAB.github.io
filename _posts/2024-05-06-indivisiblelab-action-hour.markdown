@@ -12,14 +12,12 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/570058/
 ---
 
-Join us for our next Action Hour in Lexington. As usual, we will distribute postcard packets, discuss current events, and learn from each other. See the RSVP link for location details
+At our Action Hour on May 29, we’ll be discussing how we can use the steps outlined in David Pepper’s book [Saving Democracy](https://bookshop.org/p/books/saving-democracy-a-user-s-manual-for-every-american-david-pepper/20075262) to focus our efforts over the next few months. 
 
-On May 15, we will be hosting a postcard-writing party. Please pick up a packet, grab a cup of coffee and pastry, and write for democracy! 
+The author, who also wrote [Laboratories of Autocracy](https://www.goodreads.com/book/show/59359827-laboratories-of-autocracy) about the far right’s nationwide playbook to attack democracy, is the former Chair of the Ohio Democratic Party and teaches election and voting rights law.
 
-We’ll have pens, colored markers, white-out tapes, and everything else we need to write cards for campaigns in AZ, CA, and WI. Get more details about the postcard campaigns and [sign up for packets here](https://docs.google.com/forms/d/e/1FAIpQLSfD0kWEv-dZ69JI_ZlaPgwA311b79Bfl7-LK725r1KB9LNXJA/viewform).
+Don’t worry if you haven’t had a chance to read the book. Please join us to share your thoughts on how to save our democracy or just to find out what the author and fellow Indivisibles suggest!
 
-Please RSVP so that we know to expect you and how many postcard packets to reserve. 
+You can find excepts and resources from the book at the author’s website [here](https://savedemocracy.us/).
 
-Our discussion of David Pepper’s book “Saving Democracy” has been postponed until our May 29th Action Hour. 
-
-Feel free to come and share anything you are working on! 
+Please RSVP so that we know to expect you. Additional location details will be included in the confirmation email you receive after signing up.
