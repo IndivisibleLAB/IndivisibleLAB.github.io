@@ -20,4 +20,4 @@ Don’t worry if you haven’t had a chance to read the book. Please join us to 
 
 You can also pick up postcard packets for a campaign to help register voters in Ohio. Get more details and sign up for packets [here](https://docs.google.com/forms/d/e/1FAIpQLSdSOrKmKHGNoV3rk5bHuDXga7L9DaL-OrcIkffB0mzSrcLGRg/viewform).
 
-Please RSVP so that we know to expect you. Additional location details will be included in the confirmation email you receive after signing up.
+Please [RSVP](https://www.mobilize.us/indivisiblelab/event/570058/) so that we know to expect you. Additional location details will be included in the confirmation email you receive after signing up.
