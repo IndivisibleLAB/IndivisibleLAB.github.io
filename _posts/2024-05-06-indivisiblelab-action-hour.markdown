@@ -16,7 +16,7 @@ At our Action Hour on May 29, we’ll be discussing how we can use the steps out
 
 The author, who also wrote [Laboratories of Autocracy](https://www.goodreads.com/book/show/59359827-laboratories-of-autocracy) about the far right’s nationwide playbook to attack democracy, is the former Chair of the Ohio Democratic Party and teaches election and voting rights law.
 
-Don’t worry if you haven’t had a chance to read the book. Please join us to share your thoughts on how to save our democracy or just to find out what the author and fellow Indivisibles suggest! You can get an overview, including links to excepts and resources from the book, [here](https://docs.google.com/document/d/1_v4hn1g3pl2C79bQmdFOB6WUaKLahamxstFqnN60MVM/edit?usp=sharing).
+Don’t worry if you haven’t had a chance to read the book. Please join us to share your thoughts on how to save our democracy or just to find out what the author and fellow Indivisibles suggest! You can get an overview, including links to excerpts and resources from the book, [here](https://docs.google.com/document/d/1_v4hn1g3pl2C79bQmdFOB6WUaKLahamxstFqnN60MVM/edit?usp=sharing).
 
 You can also pick up postcard packets for a campaign to help register voters in Ohio. Get more details and sign up for packets [here](https://docs.google.com/forms/d/e/1FAIpQLSdSOrKmKHGNoV3rk5bHuDXga7L9DaL-OrcIkffB0mzSrcLGRg/viewform).
 
