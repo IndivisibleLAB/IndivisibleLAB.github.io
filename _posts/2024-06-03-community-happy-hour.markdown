@@ -1,6 +1,6 @@
 ---
 title: Community Happy Hour
-date: 2024-06-03 21:32:00 Z
+date: 2024-06-03 17:00:00 Z
 categories:
 - event
 tags:
