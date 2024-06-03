@@ -8,7 +8,7 @@ tags:
 main-image: "/uploads/The%20Road%20to%20November%20is%20Paved%20with%20Community%20Happy%20hours!.jpg"
 event-start-date: 2024-06-18 17:00:00 Z
 event-end-date: 2024-06-18 18:00:00 Z
-Location: Burton's Grill, 43 Middlesex Turnpike, Burlington, MA 01803
+Location: Burton's Grill, 43 Middlesex Turnpike, Burlington, MA, 01803
 RSVP-link: bit.ly/IndivisibleLAB
 ---
 
