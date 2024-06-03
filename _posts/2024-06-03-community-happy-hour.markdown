@@ -1,8 +1,10 @@
 ---
 title: Community Happy Hour
 date: 2024-06-03 21:32:00 Z
-tags:
+categories:
 - event
+tags:
+- fun
 main-image: "/uploads/The%20Road%20to%20November%20is%20Paved%20with%20Community%20Happy%20hours!.jpg"
 event-start-date: 2024-06-18 17:00:00 Z
 event-end-date: 2024-06-18 18:00:00 Z
