@@ -1,6 +1,8 @@
 ---
 title: '"Bigger than Dobbs" Rally'
 date: 2024-05-04 16:14:00 Z
+categories:
+- event
 main-image: "/uploads/Bigger%20than%20Dobbs%20Lexington.jpg"
 event-start-date: 2024-06-23 13:00:00 Z
 event-end-date: 2024-06-23 14:30:00 Z
