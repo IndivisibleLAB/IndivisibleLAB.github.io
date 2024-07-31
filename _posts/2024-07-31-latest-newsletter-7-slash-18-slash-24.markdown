@@ -1,5 +1,5 @@
 ---
-title: Latest Newsletter
+title: Latest Newsletter - 7/18/24
 date: 2024-07-31 09:00:00 Z
 categories:
 - action
