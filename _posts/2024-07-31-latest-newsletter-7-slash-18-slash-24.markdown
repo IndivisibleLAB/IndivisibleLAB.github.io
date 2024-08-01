@@ -1,6 +1,6 @@
 ---
 title: Read Our Latest Newsletter!
-date: 2024-05-01 09:00:00 Z
+date: 2024-07-31 09:00:00 Z
 categories:
 - action
 tags:
