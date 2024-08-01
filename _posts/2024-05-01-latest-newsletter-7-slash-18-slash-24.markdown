@@ -9,6 +9,6 @@ main-image: "/uploads/newspaper%20graphic.png"
 event-start-date: 2024-07-18 09:00:00 Z
 ---
 
-Check out our most recent newsletter [here](https://mailchi.mp/e9a59f5cbb57/2024-07-18-indivisiblelab-newsletter-10344443).
+Check out our most recent [newsletter](https://mailchi.mp/e9a59f5cbb57/2024-07-18-indivisiblelab-newsletter-10344443).
 
 You'll find information on upcoming actions and events and ways to connect with fellow activists! 
