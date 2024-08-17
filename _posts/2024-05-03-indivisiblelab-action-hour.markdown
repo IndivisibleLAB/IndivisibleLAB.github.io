@@ -14,7 +14,7 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/632143/
 
 This summer we will be holding our Action Hours on the patio behind the Lexington Visitor Center. As usual, we will distribute postcard packets, discuss current events, and learn from each other. Feel free to come and share anything you are working on!
 
-This week, a local teacher will discuss Question 2 on this November’s ballot which would repeal the requirement that students must pass the Massachusetts Comprehensive Assessment System (MCAS) exam to graduate high school. 
+This week, speakers will discuss two questions that will appear on MA ballots this November: Question 2, which would repeal the requirement that students must pass the Massachusetts Comprehensive Assessment System (MCAS) exam to graduate high school, and Question 5, which would gradually raise the tipped minimum wage over several years until it's equal to the regular minimum wage.
 
 We’ll also have postcards to encourage likely Democrats in Arizona Legislative District 27 to register and vote for Democrats like Kamala Harris and [Deborah Howard](https://www.deborahhowardaz.com/), a Democrat running in an AZ State two-seat legislative district with two Republicans. Turning out voters in this district will also help with close elections for the US Senate and the Presidency.
 
