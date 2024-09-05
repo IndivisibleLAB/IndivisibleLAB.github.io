@@ -12,4 +12,4 @@ event-end-date: 2024-09-14 18:00:00 Z
 Location: Lexington, MA
 ---
 
-Save the Date for our September Social when we'll be hosting a pizza party together with other local allies! We'll be sharing more details and an RSVP link here after Labor Day.
+Save the Date for our September Social when we'll be hosting a pizza party together with other local allies! We'll be sharing more details and an RSVP link here soon.
