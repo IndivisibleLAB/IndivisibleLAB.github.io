@@ -12,4 +12,8 @@ event-end-date: 2024-09-14 18:00:00 Z
 Location: Lexington, MA
 ---
 
-Save the Date for our September Social when we'll be hosting a pizza party together with other local allies! We'll be sharing more details and an RSVP link here soon.
+Hope to see you at our September Social co-hosted with our partners, the Preserving Our Democracy Team at First Parish in Lexington!
+
+Join friends and allies from Lexington and surrounding towns to enjoy some delicious pizza, find out what people have been doing over the summer, and share plans for what promises to be a very busy fall.
+
+Drop in for a quick slice or stay for an hour or two to catch up with fellow activists. Feel free to share [this invitation](https://www.mobilize.us/indivisiblelab/event/687451/) with your friends!
