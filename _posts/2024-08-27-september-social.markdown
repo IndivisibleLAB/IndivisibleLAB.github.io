@@ -10,6 +10,7 @@ main-image: "/uploads/September%20Social%20Cropped.png"
 event-start-date: 2024-09-14 16:00:00 Z
 event-end-date: 2024-09-14 18:00:00 Z
 Location: Lexington, MA
+RSVP-link: https://www.mobilize.us/indivisiblelab/event/687451/
 ---
 
 Hope to see you at our September Social co-hosted with our partners, the Preserving Our Democracy Team at First Parish in Lexington!
