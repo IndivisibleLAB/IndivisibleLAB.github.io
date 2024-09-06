@@ -6,7 +6,7 @@ categories:
 tags:
 - fun
 - social
-main-image: "/uploads/IndivisibleLABwave-5fd5a7.jpg"
+main-image: "/uploads/September%20Social%20Cropped.png"
 event-start-date: 2024-09-14 16:00:00 Z
 event-end-date: 2024-09-14 18:00:00 Z
 Location: Lexington, MA
