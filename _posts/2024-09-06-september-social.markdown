@@ -1,6 +1,7 @@
 ---
 title: September Social
 date: 2024-09-06 16:42:00 Z
+published: false
 categories:
 - event
 tags:
