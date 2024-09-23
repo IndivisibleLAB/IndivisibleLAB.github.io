@@ -12,9 +12,13 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
 
-Join us for our Fall Action Hours which will be held at an indoor location in Lexington near Route 2. As usual, we will distribute postcard packets and discuss current events and actions you can take to strengthen our democracy.
+Join us for our Fall Action Hours which will be held at an indoor location in Lexington near Route 2. As usual, we will distribute postcard packets and discuss current events and actions you can take to strengthen our democracy. We'll be any speakers for our October 2 Action Hour here soon.
 
-We'll be announcing the postcard campaign and any speakers for our October 2 Action Hour here about a week before the meeting. 
+We currently have two postcard campaigns: one to encourage likely Democrats in the important swing state of Michigan to register to vote and a bonus campaign from Indivisible National to encourage inconsistent voters who haven’t voted recently to vote this year.
+
+Each MI packet will contain everything you need to write 25 postcards (cards, stamps, addresses, and instructions). Reimbursement is $15. You can also get a packet for the bonus campaign while supplies last. Since we have been subsidizing the cost of regular packets, we would appreciate a voluntary donation of $5 for the bonus packets.
+
+Get more details (including mail-by dates, links to scripts, and multiple pickup options) and sign up for packets by September 30 [here](https://docs.google.com/forms/d/e/1FAIpQLSeC1pzFdWj_1AGGJKBAFSwOcweAbyi-9Hv2ZFL3RdU7aYa-Zw/viewform).
 
 Please RSVP so that we know to expect you and how many postcard packets to reserve.
 
