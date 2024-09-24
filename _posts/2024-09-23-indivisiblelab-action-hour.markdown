@@ -12,7 +12,9 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
 
-Join us for our Fall Action Hours which will be held at an indoor location in Lexington near Route 2. As usual, we will distribute postcard packets and discuss current events and actions you can take to strengthen our democracy. We'll be announcing any speakers for our October 2 Action Hour here soon.
+Join us for our Fall Action Hours which will be held at an indoor location in Lexington near Route 2. As usual, we will distribute postcard packets and discuss current events and actions you can take to strengthen our democracy. 
+
+On October 2nd, we’ll learn about an app that lets you easily share information about Kamala Harris and Tim Walz with friends and family and also hear about canvassing in NH. Please make sure to bring your cell phones!
 
 We currently have two postcard campaigns: one to encourage likely Democrats in the important swing state of Michigan to vote and a bonus campaign from Indivisible National to encourage inconsistent voters who haven’t voted recently to vote this year.
 
