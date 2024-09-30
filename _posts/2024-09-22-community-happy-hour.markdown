@@ -1,7 +1,6 @@
 ---
 title: Community Happy Hour
 date: 2024-09-22 17:00:00 Z
-published: false
 categories:
 - event
 tags:
