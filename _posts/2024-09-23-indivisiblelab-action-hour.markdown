@@ -14,7 +14,7 @@ RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 
 Join us for our Fall Action Hours which will be held at an indoor location in Lexington near Route 2. As usual, we will distribute postcard packets and discuss current events and actions you can take to strengthen our democracy. 
 
-On October 16, we’ll hear from a local climate activist about the issues they’re working on. 
+On October 16, we’ll hear from local climate activists about the issues they’re working on. 
 
 We’ll be posting the details and signup form for our next postcard campaign here about a week before the meeting. 
 
