@@ -16,7 +16,9 @@ Join us for our Fall Action Hours which will be held at an indoor location in Le
 
 On October 16, we’ll hear from local climate activists about why Massachusetts needs a comprehensive climate bill, what should be in it, and how we can get it passed. 
 
-We’ll be posting the details and signup form for our next postcard campaign here about a week before the meeting. 
+ We have two postcard campaigns this week with smaller packets since postcards need to be mailed soon: one to get out the vote in Arizona and another to voters in CA-45, one of  Indivisible National’s “Unrepresentative” districts. 
+
+Each packet will contain everything you need to write 15 postcards (cards, stamps, addresses, and instructions). Reimbursement is $10. Get more details (including mail-by dates, links to scripts, and multiple pickup options) and sign up for packets by October 14 [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfIgzgUpZYF-lRiY0VW_3uawDVFwTBnEICsgLStmjUCknvI7g/viewform).
 
 Please RSVP so that we know to expect you and how many postcard packets to reserve.
 
