@@ -6,8 +6,8 @@ categories:
 tags:
 - postcards
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
-event-start-date: 2024-10-16 10:30:00 Z
-event-end-date: 2024-10-16 11:30:00 Z
+event-start-date: 2024-10-30 10:30:00 Z
+event-end-date: 2024-10-30 11:30:00 Z
 Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
