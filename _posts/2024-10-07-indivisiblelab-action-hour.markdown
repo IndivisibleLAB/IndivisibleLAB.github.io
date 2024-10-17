@@ -18,4 +18,4 @@ On October 30, we’ll hear from one of our state senators about health care and
 
 We’ve distributed the last of our postcard packets for this election season - thank you to our democracy writers who sent more than 10,000 postcards this year!
 
-We all learn from each other. Feel free to come and share anything you are working on! Please RSVP so that we know to expect you and how many postcard packets to reserve.
+We all learn from each other. Feel free to come and share anything you are working on! Please RSVP to get location details and parking information.
