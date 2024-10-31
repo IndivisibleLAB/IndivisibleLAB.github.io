@@ -16,7 +16,7 @@ Join us for our Fall Action Hours which will be held at an indoor location in Le
 
 This year, our Democracy Writers sent over 10,000 postcards to likely Democrats and infrequent voters in swing states and toss-up congressional districts in Arizona, California, Georgia, Michigan, Montana, Nevada, New York, North Carolina, Ohio, Pennsylvania, and Wisconsin! 
  
-Join us on at our Action Hour on Nov. 13 to find out how the candidates we wrote postcards for fared in this year’s election. 
+Join us at our Action Hour on Nov. 13 to find out how the candidates we wrote postcards for fared in this year’s election. 
 
 Maggie Peard, Lexington’s Sustainability and Resilience Officer, will also meet with us to discuss the town’s composting programs and answer your questions.
 
