@@ -6,16 +6,18 @@ categories:
 tags:
 - postcards
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
-event-start-date: 2024-10-30 10:30:00 Z
-event-end-date: 2024-10-30 11:30:00 Z
+event-start-date: 2024-11-13 10:30:00 Z
+event-end-date: 2024-11-13 11:30:00 Z
 Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
 
 Join us for our Fall Action Hours which will be held at an indoor location in Lexington near Route 2. As usual, we will discuss current events and actions you can take to strengthen our democracy. 
 
-On October 30, we’ll hear from one of our state senators about health care and other bills, including what’s been passed this legislative session, what might happen in the next two months before the session ends, and what her priorities are for the new session that begins in January. 
+This year, our Democracy Writers sent over 10,000 postcards to likely Democrats and infrequent voters in swing states and toss-up congressional districts in Arizona, California, Georgia, Michigan, Montana, Nevada, New York, North Carolina, Ohio, Pennsylvania, and Wisconsin! 
+ 
+Join us on at our Action Hour on Nov. 13 to find out how the candidates we wrote postcards for fared in this year’s election. 
 
-We’ve distributed the last of our postcard packets for this election season - thank you to our democracy writers who sent more than 10,000 postcards this year!
+Maggie Peard, Lexington’s Sustainability and Resilience Officer, will also meet with us to discuss the town’s composting programs and answer your questions.
 
 We all learn from each other. Feel free to come and share anything you are working on! Please RSVP to get location details and parking information.
