@@ -12,7 +12,7 @@ Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
 
-It will take time to process the results of this week’s election. We - like many of you - feel disappointed, angry, frustrated, confused, and sad. Now, more than ever, it’s important to maintain our connections with each other and not lose sight of the power of our community. 
+It will take time to process the results of the election. We - like many of you - feel disappointed, angry, frustrated, confused, and sad. Now, more than ever, it’s important to maintain our connections with each other and not lose sight of the power of our community. 
 
 Join us to share your thoughts about the election and discuss what we can do going forward.
 
