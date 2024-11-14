@@ -3,11 +3,9 @@ title: IndivisibleLAB Community Gathering
 date: 2024-11-07 15:00:00 Z
 categories:
 - event
-tags:
-- postcards
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
-event-start-date: 2024-11-13 10:30:00 Z
-event-end-date: 2024-11-13 11:30:00 Z
+event-start-date: 2024-12-04 10:30:00 Z
+event-end-date: 2024-12-04 11:30:00 Z
 Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
