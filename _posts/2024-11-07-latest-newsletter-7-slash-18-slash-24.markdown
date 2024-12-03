@@ -8,6 +8,6 @@ tags:
 main-image: "/uploads/newspaper%20graphic.png"
 ---
 
-Check out our most recent [newsletter](https://mailchi.mp/cd0c3cce522d/2024-11-21-indivisiblelab-newsletter-10347770).
+Check out our most recent [newsletter](https://mailchi.mp/d87b4f0d1470/2024-12-3-indivisiblelab-newsletter-10348055).
 
 You'll find information on upcoming actions and events and ways to connect with fellow activists! 
