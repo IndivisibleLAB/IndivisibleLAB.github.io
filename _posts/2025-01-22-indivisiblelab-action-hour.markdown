@@ -4,8 +4,8 @@ date: 2025-01-22 15:00:00 Z
 categories:
 - event
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
-event-start-date: 2025-01-22 10:30:00 Z
-event-end-date: 2025-01-22 11:30:00 Z
+event-start-date: 2025-02-05 10:30:00 Z
+event-end-date: 2025-02-05 11:30:00 Z
 Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/702649/
 ---
