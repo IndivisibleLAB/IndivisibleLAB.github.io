@@ -1,5 +1,5 @@
 ---
-title: IndivisibleLAB at IMC IndivisiGather
+title: Indivisible LAB at IMC IndivisiGather
 date: 2018-07-01 10:00:00 Z
 published: false
 categories:
