@@ -1,5 +1,5 @@
 ---
-title: IndivisibleLAB Action Hour
+title: Indivisible LAB Action Hour
 date: 2025-01-22 15:00:00 Z
 categories:
 - event
