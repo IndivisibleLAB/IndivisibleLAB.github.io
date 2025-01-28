@@ -10,8 +10,8 @@ mailchimp-form-embed: <iframe height="950" title="Embedded Wufoo Form" allowtran
 layout: becomeAMember
 ---
 
-The mission of **IndivisibleLAB** (Lexington, Arlington, Bedford, and Beyond) is to provide a home for local activists to come together to take collective action at the local, state, and federal level; build community; have some laughs; and recharge. We plan to partner with nearby Indivisible groups to amplify their actions (e.g., postcarding, texting, nomination papers, etc.) that focus on legislative, voter registration, and get out the vote efforts.
+The mission of **Indivisible LAB** (Lexington, Arlington, Bedford, and Beyond) is to provide a home for local activists to come together to take collective action at the local, state, and federal level; build community; have some laughs; and recharge. We plan to partner with nearby Indivisible groups to amplify their actions (e.g., postcarding, texting, nomination papers, etc.) that focus on legislative, voter registration, and get out the vote efforts.
 
 **All are welcome.**
 
-**Donations to IndivisibleLAB can be made here:**  [Donate to IndivisibleLAB](https://secure.actblue.com/donate/indivisiblelab1016463965)
+**Donations to Indivisible LAB can be made here:**  [Donate to Indivisible LAB](https://secure.actblue.com/donate/indivisiblelab1016463965)
