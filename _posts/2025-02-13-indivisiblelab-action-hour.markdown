@@ -14,4 +14,4 @@ Join us for our Winter Action Hours which will be held at an indoor location in 
 
 We apologize that we're not able to accept any more signups for our in-person meeting on February 19, but you can still signup to pick up postcard packets for the Wisconsin Supreme Court race or a special election for a US House seat in Florida in Concord [HERE](https://docs.google.com/forms/d/e/1FAIpQLSf8b6QeFaQT_AVXQ0Y1My05SoM9ifahfMIKMmqaWG7fOQGzXA/viewform)
 
-Please RSVP to get location details and parking information for our March meetings.
+You can also RSVP to get location details and parking information for our March Action Hours.
