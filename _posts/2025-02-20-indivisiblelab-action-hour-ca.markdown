@@ -3,6 +3,7 @@ title: Standout Saturday
 date: 2025-02-20 20:38:00 Z
 categories:
 - event
+- action
 tags:
 - action
 main-image: "/uploads/IndivisibleLAB%20Wave.jpg"
