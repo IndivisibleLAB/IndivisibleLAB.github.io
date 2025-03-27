@@ -1,6 +1,6 @@
 ---
 title: Read Our Latest Newsletter!
-date: 2025-03-13 10:30:00 Z
+date: 2025-03-27 10:30:00 Z
 categories:
 - action
 tags:
@@ -8,6 +8,6 @@ tags:
 main-image: "/uploads/newspaper%20graphic.png"
 ---
 
-Check out our most recent [newsletter](https://mailchi.mp/3d30f02521ff/2025-3-13-indivisiblelab-newsletter-10350187).
+Check out our most recent [newsletter](https://mailchi.mp/c5b7aafad3bd/2025-3-27-indivisiblelab-newsletter-10350503).
 
 You'll find information on upcoming actions and events and ways to connect with fellow activists! 
