@@ -16,6 +16,6 @@ These days, demands for our attention, time and energy can be overwhelming. On A
 
 And if you’re free to stay past 11:30, join us immediately after the Action Hour to make signs for upcoming protests and standouts. We’ll supply the materials!
 
-You can also pick up postcard packets after our Action Hour and at other locations. Get more details about this week’s postcard campaign and reserve packets [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc3wL3FEXeT6etN6Xi1wtzvRoGOgIpzQRVkzXCFbZB9clbbYg/viewform).
+You can also pick up postcard packets after our Action Hour and at other times. Get more details about this week’s postcard campaign and reserve packets [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc3wL3FEXeT6etN6Xi1wtzvRoGOgIpzQRVkzXCFbZB9clbbYg/viewform).
 
 Please RSVP to get location details and parking information. Feel free to come and share anything you are working on - we all learn from each other!
