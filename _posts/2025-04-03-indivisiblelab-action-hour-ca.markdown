@@ -7,8 +7,8 @@ categories:
 tags:
 - action
 main-image: "/uploads/IndivisibleLAB%20Wave.jpg"
-event-start-date: 2025-03-08 10:00:00 Z
-event-end-date: 2025-03-08 11:00:00 Z
+event-start-date: 2025-04-05 11:00:00 Z
+event-end-date: 2025-04-19 16:00:00 Z
 Location: Lexington
 RSVP-link: https://www.mobilize.us/indivisiblelab/event/756862/
 ---
