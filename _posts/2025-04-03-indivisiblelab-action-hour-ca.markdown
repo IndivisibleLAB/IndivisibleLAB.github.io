@@ -19,4 +19,4 @@ On **Saturday April 5**, join us at the Hands Off! Rally/March in [Boston](https
 
 On **Saturday, April 12**, bring a sign and join us at a standout in Lexington Center from 11-11:30am. Afterwards, we will head into a local cafe. Get more details and RSVP for location [HERE](https://www.mobilize.us/indivisiblelab/event/771818/).
 
-An on Patriots Day, **Saturday, April 19**, you can join a peaceful protest in Lexington on the 250th anniversary of the American revolution. Get more details [HERE](lexingtonalarm.org).
+And on Patriots Day, **Saturday, April 19**, you can join a peaceful protest in Lexington on the 250th anniversary of the American revolution. Get more details [HERE](lexingtonalarm.org).
