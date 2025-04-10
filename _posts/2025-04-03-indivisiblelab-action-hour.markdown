@@ -14,4 +14,6 @@ Join us for our Spring Action Hours at our new location in Lexington Center. As 
 
 At our Action Hour on April 16, we’ll hear from Olivia Santoro from the ACLU of Massachusetts, who will discuss what the ACLU is doing in the courts, and in state and local legislatures to respond to the Trump Administration. Topics will include free speech, immigrants’ rights, and digital privacy. She will also review ways that we can take action!
 
+We have a limited number of postcard packets to write to Virginia voters and will close the [postcard signup form](https://docs.google.com/forms/d/e/1FAIpQLSfZ2hEmkcozRMW9jGLU4GlcOuhTM8Bx9_fSABVSdDG-Lj-9Ng/viewform) when all the packets are taken.
+
 Please RSVP to get location details and parking information. Feel free to come and share anything you are working on - we all learn from each other!
