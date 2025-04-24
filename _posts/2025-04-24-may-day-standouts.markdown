@@ -1,12 +1,12 @@
 ---
 title: May Day Standouts
-date: 2025-04-24 17:51:00 Z
+date: 2025-04-24 13:00:00 Z
 categories:
 - event
 tags:
 - action
 main-image: "/uploads/May%20Day%20Action.png"
-event-start-date: 2025-05-01 00:00:00 Z
+event-start-date: 2025-05-01 16:30:00 Z
 event-end-date: 2025-05-01 18:30:00 Z
 RSVP-link: https://www.mobilize.us/mayday/event/780672/
 ---
