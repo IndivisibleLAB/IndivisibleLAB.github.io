@@ -1,11 +1,11 @@
 ---
 title: May Day Standouts
-date: 2025-04-24 13:00:00 Z
+date: 2025-04-23 13:00:00 Z
 categories:
 - event
 tags:
 - action
-main-image: "/uploads/May%20Day%20Action.png"
+main-image: "/uploads/IndivisibleLAB%20Wave.jpg"
 event-start-date: 2025-05-01 16:30:00 Z
 event-end-date: 2025-05-01 18:30:00 Z
 RSVP-link: https://www.mobilize.us/mayday/event/780672/
