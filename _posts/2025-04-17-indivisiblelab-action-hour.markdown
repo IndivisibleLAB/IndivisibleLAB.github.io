@@ -1,6 +1,6 @@
 ---
 title: Indivisible LAB Action Hour
-date: 2025-04-17 10:00:00 Z
+date: 2025-04-17 09:00:00 Z
 categories:
 - event
 main-image: "/uploads/wave_circle_round_2c_360.jpg"
