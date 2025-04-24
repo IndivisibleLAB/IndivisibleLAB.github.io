@@ -1,5 +1,5 @@
 ---
-title: May Day Standouts
+title: May Day Standout
 date: 2025-04-23 13:00:00 Z
 categories:
 - event
