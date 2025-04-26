@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - action
-main-image: "/uploads/wave_circle_round_2c_360.jpg"
+main-image: "/uploads/May%20Day%202025.png"
 event-start-date: 2025-05-01 16:30:00 Z
 event-end-date: 2025-05-01 18:30:00 Z
 RSVP-link: https://www.mobilize.us/mayday/event/780672/
