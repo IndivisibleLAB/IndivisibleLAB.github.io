@@ -11,8 +11,8 @@ Location: Massachusetts State House, Room 428, 24 Beacon St., Boston, MA
 RSVP-link: https://actionnetwork.org/events/progressive-mass-2025-lobby-day
 ---
 
-Join us at the State House for the Progressive Mass Lobby Day to discuss key bills with your legislators, especially ones on affordable housing, criminal legal reform, and climate action. 
+Join us at the State House for the Progressive Mass Lobby Day to connect with fellow activists from across MA and discuss key bills with your legislators. 
 
 Whether you've lobbied before or are lobbying for the first time, Progressive Mass will make sure that you’re well-prepared for meetings with your state legislators. 
 
-If you'd like to carpool from Lexington, email us at IndivisibleLAB@gmail.com and indicate whether you're interested in getting a ride or driving others.
+Need transportation to the State House on the 28th? We’ll be providing information on carpooling and other transportation options soon.
