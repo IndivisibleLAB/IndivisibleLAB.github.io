@@ -1,7 +1,6 @@
 ---
 title: Progressive Mass Lobby Day
 date: 2025-05-01 10:30:00 Z
-published: false
 categories:
 - event
 main-image: "/uploads/Progressive%20Mass%20Lobby%20Day%202025.png"
