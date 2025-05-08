@@ -4,11 +4,11 @@ date: 2024-05-05 20:43:00 Z
 published: false
 categories:
 - event
-main-image: "/uploads/Progressive%20Mass%20Lobby%20Day%205-16-24.png"
-event-start-date: 2024-05-16 10:00:00 Z
-event-end-date: 2024-05-16 13:00:00 Z
+main-image: "/uploads/Progressive%20Mass%20Lobby%20Day%202025.png"
+event-start-date: 2025-05-28 09:30:00 Z
+event-end-date: 2025-05-28 13:00:00 Z
 Location: Massachusetts State House, Room 428, 24 Beacon St., Boston, MA
-RSVP-link: https://secure.everyaction.com/WEf73pwQtEKPYpasZ6CSTQ2
+RSVP-link: https://actionnetwork.org/events/progressive-mass-2025-lobby-day
 ---
 
 Join us at the State House for the Progressive Mass Lobby Day to discuss key bills with your legislators, especially ones on affordable housing, criminal legal reform, and climate action. 
