@@ -14,4 +14,4 @@ Join us at the State House for the Progressive Mass Lobby Day to connect with fe
 
 Whether you've lobbied before or are lobbying for the first time, Progressive Mass will make sure that you’re well-prepared for meetings with your state legislators. 
 
-Need transportation to the State House on the 28th? We’ll be providing information on carpooling and other transportation options soon.
+Get all the details, including options for carpooling, in the latest issue of our newsletter [HERE](https://mailchi.mp/f1b75fc37b0c/2025-5-22-indivisiblelab-newsletter-10351689)
